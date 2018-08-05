@@ -1,0 +1,1999 @@
+#+STARTUP: content
+#+STARTUP: indent
+* exam2017
+** po
+*** phi
+- 13-6 02:51
+**** 第一章 前言
+**** 第二章 关于世界 唯物论、辩证法
+- 基本哲理，介绍了正确的世界观：唯物论和正确的方法论：辩证法。
+- 物质 == 客观 == 存在 == 实在
+  - 物质实体：物体
+  - 物质行为：实践
+  - 物质关系：联系
+- 矛盾 == 对立统一 == 辩证统一
+  1. 物体
+  2. 冲突
+  3. 对立统一
+- 否定之否定的三要件
+  1. 两次变化
+  2. 每次改变都走向对立面
+  3. 落脚点高于出发点
+**** 第三章 关于思维 认识论
+- 可知论
+- 运用第二章原理为指导，研究人类思维
+- 意识 == 认识 + 情感 + 意志
+- 主体 == 主观 + 肉体
+- 客观 == 客体 + 自在世界
+**** 第四章 关于人类社会 唯物史论
+- 历史唯物主义
+- 运用第二章原理为指导，研究人类社会
+**** 第五章 关于自由竞争资本主义
+- 政治经济学
+- 运用哲学原理研究资本主义社会三大内容：
+  1. 产生
+  2. 面貌
+  3. 发展
+- 价值的属性：
+  1. 社会性
+  2. 历史性
+  3. 特性
+- 平均利润形成的后果：
+  1. 平均利润在某种程度上掩盖了本部门资本家对工人的剥削
+  2. 揭示了整个资产阶级对无产阶级的剥削
+  3. 商品的价值转化为价格
+  4. 价值规律的作用形式发生了变化
+***** 再生产
+****** 简单
+****** 扩大 -> 单个资本增大
+******* 积聚
+******** 积累
+******* 集中
+******** 兼并
+******** 联合 -> 股份制
+**** 第六章 关于垄断资本主义
+- 两个阶段，三大跨越
+**** 第七章 关于社会主义
+- 科学社会主义，根据共产主义社会的两个阶段分为两章
+**** 第八章 关于共产主义
+*** m&Z
+- 两学一做
+  - 学党章党规
+  - 学系列讲话
+  - 做合格党员
+**** 第一章 马克思主义中国化两大理论成果
+***** 马克思主义中国化及其发展
+****** 马克思主义中国化的提出
+- 认识过程
+  - 党经历了一个长期思考和探索的过程
+  - 1938 年，毛泽东在六届六中全会上作《论新阶段》的政治报告中最先提出了“马克思主
+    义中国化”这个命题
+  - 延安整风，成为全党的共识。七大写入党章
+- 必要性
+  - 解决中国实际问题的客观需要
+  - 马克思主义理论发展的内在要求
+****** 马克思主义中国化的科学内涵
+- 马克思主义基本原理用中国具体实际相结合
+  - 解决中国问题
+  - 创造些新的东西
+- 指导中国革命、建设和改革的实践中实现具体化
+- 实践经验和历史经验上升为马克思主义理论
+- 植根于中华民族优秀的思想文化之中
+****** 马克思主义中国化两大理论成果的关系
+- 第一次历史性飞跃的理论成果是毛泽东思想（重要思想渊源）
+  - 实事求是、群众路线、独立自主 -> 基本遵循
+  - 理论准备
+- 中国特色社会主义理论体系，包括邓小平理论、“三个代表”重要思想以及科学发展观
+  - 丰富了发展了，创造性地提出了
+  - 什么是社会主义、怎样建设社会主义，建设什么样的党、怎样建设党，实现什么样的发
+    展、怎样发展
+- *一脉相承* 又 *与时俱进*
+- 共同的“根”，马克思列宁主义的分店
+  - 辩证唯物主义和历史唯物主义的哲学基础
+  - 以实现共产主义为最高理想
+  - 以无产阶级政党为领导核心
+  - 代表最广大人民的根本利益
+***** 两大理论成果
+****** 关系（比较）
+|            | 毛泽东思想                                 | 中国特色社会主义理论体系                                 |
+|------------+--------------------------------------------+----------------------------------------------------------|
+| 科学涵义   | 马克思列宁主义在中国的运用和发展           | 继承和发展                                               |
+|            | *革命和建设* 的正确的理论原则和经验总结    | 建设、巩固和发展社会主义的正确的理论原则和经验总结       |
+|            | 中国共产党集体智慧的结晶                   | 中国共产党集体智慧的结晶                                 |
+|------------+--------------------------------------------+----------------------------------------------------------|
+| 形成条件   | 新民主主义革命、社会主义革命和社会主义建设 | 和平与发展成为时代主题                                   |
+|            | 总结革命和建设正反两方面历史经验的基础上   | 改革开放和社会主义现代化建设                             |
+|            |                                            | 总结社会主义建设正反两方面历史经验和改革开放以来新鲜经验 |
+|            |                                            | 汲取其他社会主义国家兴衰成败经验                         |
+|------------+--------------------------------------------+----------------------------------------------------------|
+| 形成和发展 |                                            |                                                          |
+|------------+--------------------------------------------+----------------------------------------------------------|
+| 主要内容   |                                            |                                                          |
+|------------+--------------------------------------------+----------------------------------------------------------|
+| 精髓       | 实事求是                                   | 实事求是                                                 |
+|------------+--------------------------------------------+----------------------------------------------------------|
+| 历史地位   | 第一次历史性飞跃的理论成果                 | 第二次历史性飞跃的理论成果                               |
+|            | 中国革命和建设的科学指南                   | 全党全国各族人民团结奋斗的共同思想基础                   |
+|            | 中国共产党和中国人民宝贵的精神财富         | 中华民族伟大复兴中国梦的根本指针                                         |
+****** 科学评价毛泽东和毛泽东思想
+- 重要的历史意义和重要的现实意义
+****** 中国特色社会主义理论体系的最新成果
+- 地位
+  - 中国特色社会主义理论体系的最新成果最新成果
+  - 马克思主义中国化最新成果
+  - 指导具有许多新的历史特点的伟大斗争的鲜活的马克思主义
+- 作用
+  - 治国理政的行动纲领
+  - 凝聚力量、攻坚克难的强大思想武器
+  - “两个一百年”奋斗目标、“中国梦”的行动指南
+******* 中华民族伟大复兴的“中国梦”的提出
+- <2012-11-29 四>
+******* “四个全面”的战略布局
+1. 提出
+   1. 全面建成小康社会
+   2. 全面深化改革
+   3. 全面推进依法治国
+   4. 全面从严治党
+2. 提出的原因 -> 问题意识和人民情怀，是“四个全面”战略布局形成的最深刻根据
+   1. 发展的现实需要
+   2. 顺应人民的热切期盼
+   3. 解决面临的突出矛盾和问题
+3. “四个全面”战略布局是一个整体
+   1. 既包括战略目标又包括战略举措
+      1. 战略目标 -> 全面建成小康社会
+      2. 战略举措 -> 全面深化改革、全面依法治国、全面从严治党
+   2. 相辅相成、相得益彰
+      1. 到 2020 年全面建成小康社会，是实现中华民族伟大复兴中国梦的“关键一步”
+      2. 全面深化改革是全面建成小康社会的动力源泉，是实现中国梦的“关键一招”
+      3. 全面依法治国是全面深化改革的法治保障和全面建成小康社会的重要基石；全面
+         深化改革、全面依法治国如“鸟之两翼”或“车之双轮”，推动着全面建成小康
+         社会目标的实现
+      4. 全面从严治党则是全面建成小康社会、全面深化改革、全面依法治国的必然要求
+         和根本保证
+4. 意义
+   - 新实践新成果，科学总结和丰富发展，新要求，行动纲领
+******* 提出创新、协调、绿色、开放、共识五大发展新理念
+1. 提出及其依据
+   1. 提出<2015-10-26 一>--<2015-10-29 四>
+   2. 依据 -> 深刻总结 深刻分析 针对突出矛盾和问题
+2. 关系发展全局的深刻变革（重要性）
+   1. 发展理念是发展行动的先导
+   2. 五大发展理念
+3. 具有内在联系的集合体
+   1. 创新发展注重的是解决发展动力的问题，国家发展全局的核心位置
+   2. 协调发展注重的是解决发展不平衡问题
+   3. 绿色发展注重的是解决人与自然和谐问题
+   4. 开放发展注重的是解决发展内外联动问题
+   5. 共享发展注重的是解决社会公平正义问题
+      1. 全民共享 -> 覆盖面
+      2. 全面共享 -> 内容
+      3. 共建共享 -> 实现途径
+      4. 渐进共享 -> 推进进程
+4. 牢固树立和自觉践行发展新理论
+   - 崇尚创新、注重协调、倡导绿色、厚植开放、推进共享
+***** 实事求是与理论成果的精髓
+1. 形成和发展
+2. 科学内涵
+   1. 一切从实际出发 -> 前提和基础
+   2. 理论联系实际 -> 根本途径和方法
+   3. 实事求是 -> 实质和核心
+   4. 在实践中检验真理和发展真理 -> 验证条件和目的
+3. 实事求是既是党的思想路线的核心，也是马克思主义中国化两大理论成果的精髓
+   1. 贯穿形成和发展的全过程
+   2. 体现基本内容的各个方面
+   3. 渗透于两大成果的方法论原则
+**** 第二章 新民主主义革命理论
+**** 第三章 社会主义改造理论
+**** 第四章 社会主义建设道路初步探索的理论成果
+**** 第五章 建设中国特色社会主义总依据
+**** 第六章 社会主义本质和建设中国特色社会主义总任务
+**** 第七章 社会主义改革开放理论
+**** 第八章 建设中国特色社会主义总布局
+**** 第九章 实现祖国完全统一的理论
+**** 第十章 中国特色社会主义外交和国际战略
+**** 第十一章 建设中国特色社会主义的根本目的和依靠力量理论
+**** 第十二章 中国特色社会主义领导核心理论
+*** His
+** en
+*** reacom
+**** explain & recite
+***** 2009-4 美国历史
+- The most thoroughly studied in the history of the new world are the ministers and political leaders of seventeenth-century New England. According to the standard history of American philosophy, nowhere else in colonial America was "So much important attached to intellectual pursuits". According to many books and articles, New England's leaders established the basic themes and preoccupations of an unfolding, dominant Puritan tradition in American intellectual life.
+- To take this approach to the New Englanders normally mean to start with the Puritans' theological innovations and their distinctive ideas about the church-important subjects that we may not neglect. But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture adjusting to New world circumstances. The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.
+- The early settlers of Massachusetts Bay included men of impressive education and influence in England. Besides the ninety or so learned ministers who came to Massachusetts church in the decade after 1629, There were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston. These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.
+- We should not forget, however, that most New Englanders were less well educated. While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized. Their thinking often had a traditional superstitions quality. A tailor named John Dane, who emigrated in the late 1630s, left an account of his reasons for leaving England that is filled with signs. Sexual confusion, economic frustrations, and religious hope-all name together in a decisive moment when he opened the Bible, told his father the first line he saw would settle his fate, and read the magical words: "come out from among them, touch no unclean thing, and I will be your God and you shall be my people." One wonders what Dane thought of the careful sermons explaining the Bible that he heard in puritan churches.
+- Meanwhile, many settles had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New world for religion. "Our main end was to catch fish."
+***** 2008-1 医学心理
+****** Text
+- While still catching-up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category. "Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men," according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital.
+- Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions. In several of the studies, when stressed-out female rats had their ovaries (the female reproductive organs) removed, their chemical responses became equal to those of the males.
+- Adding to a woman's increased dose of stress chemicals, are her increased "opportunities" for stress. "It's not necessarily that women don't cope as well. It's just that they have so much more to cope with," says Dr. Yehuda. "Their capacity for tolerating stress may even be greater than men's," she observes, "it's just that they're dealing with so many more things that they become worn out from it more visibly and sooner."
+- Dr. Yehuda notes another difference between the sexes. "I think that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature. Men go to war and are exposed to combat stress. Men are exposed to more acts of random physical violence. The kinds of interpersonal violence that women are exposed to tend to be in domestic situations, by, unfortunately, parents or other family members, and they tend not to be one-shot deals. The wear-and-tear that comes from these longer relationships can be quite devastating."
+- Adeline Alvarez married at 18 and gave birth to a son, but was determined to finish college. "I struggled a lot to get the college degree. I was living in so much frustration that that was my escape, to go to school, and get ahead and do better." Later, her marriage ended and she became a single mother. "It's the hardest thing to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt. _I lived from paycheck to paycheck._"
+- Not everyone experiences the kinds of severe chronic stresses Alvarez describes. But most women today are coping with a lot of obligations, with few breaks, and feeling the strain. Alvarez's experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function.
+****** Which of the following is true according to the first two paragraphs?
++ *Women are biologically more vulnerable to stress.*
++ Women are still suffering much stress caused by men.
++ Women are more experienced than men in coping with stress.
++ Men and women show different inclinations when faced with stress.
+****** Dr. Yehuda's research suggests that women ________.
++ need extra doses of chemicals to handle stress
++ have limited capacity for tolerating stress
++ are more capable of avoiding stress
++ *are exposed to more stress*
+****** According to Paragraph 4, the stress women confront tends to be ________.
++ domestic and temporary
++ irregular and violent
++ *durable and frequent*
++ trivial and random
+****** The sentence "I lived from paycheck to paycheck."(Para.5) shows that ________.
++ Alvarez cared about nothing but making money
++ *Alvarez's salary barely covered her household expenses*
++ Alvarez got paychecks from different jobs
++ Alvarez paid practically everything by check
+****** Which of the following would be the best title for the text?
++ Strain of Stress: No Way Out?
++ Responses to Stress: Gender Difference
++ Stress Analysis: What Chemicals Say
++ *Gender Inequality: Women Under Stress*
+***** 2007-3 社会经济
+****** Text
+- During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities. Now a pink slip, a bad diagnosis, or a disappearing spouse can reduce a family from solidly middle class to newly poor in a few months.
+- In just one generation, millions of mothers have gone to work, transforming basic family economics. Scholars, policymakers, and critics of all stripes have debated the social implications of these changes, but few have looked at the side effect: family risk has risen as well. Today's families have budgeted to the limits of their new two-paycheck status. As a result, they have lost the parachute they once had in times of financial setback -- a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. This "added-worker effect" could support the safety net offered by unemployment insurance or disability insurance to help families weather bad times. But today, a disruption to family fortunes can no longer be made up with extra income from an otherwise-stay-at-home partner.
+- During the same period, families have been asked to absorb much more risk in their retirement income. Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money. For much of the past year, President Bush campaigned to move Social Security to a saving-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns. For younger families, the picture is not any better. Both the absolute cost of healthcare and the share of it borne by families have risen -- and newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families' future healthcare. Even demographics are working against the middle class family, as the odds of having a weak elderly parent -- and all the attendant need for physical and financial assistance -- have jumped eightfold in just one generation.
+- From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders. The financial fallout has begun, and the political fallout may not be far behind.
+****** Today's double-income families are at greater financial risk in that
+- the safety net they used to enjoy has disappeared.
+- their chances of being laid off have greatly increased.
+- *they are more vulnerable to changes in family economics.*
+- they are deprived of unemployment or disability insurance.
+****** As a result of President Bush's reform, retired people may have
+- a higher sense of security.
+- *less secured payments.*
+- less chance to invest.
+- a guaranteed future.
+****** According to the author, health-savings plans will
+- help reduce the cost of healthcare.
+- popularize among the middle class.
+- compensate for the reduced pensions.
+- *increase the families' investment risk.*
+****** It can be inferred from the last paragraph that
+- financial risks tend to outweigh political risks.
+- the middle class may face greater political challenges.
+- *financial problems may bring about political problems.*
+- financial responsibility is an indicator of political status.
+****** Which of the following is the best title for this text?
+- The Middle Class on the Alert
+- *The Middle Class on the Cliff*
+- The Middle Class in Conflict
+- The Middle Class in Ruins
+***** 2006-2 社会经济
+****** Text
+- Stratford-on-Avon, as we all know, has only one industry -- William Shakespeare -- but there are two distinctly separate and increasingly hostile branches. There is the Royal Shakespeare Company (RSC), which presents superb productions of the plays at the Shakespeare Memorial Theatre on the Avon. And there are the townsfolk who largely live off the tourists who come, not to see the plays, but to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights.
+- The worthy residents of Stratford doubt that the theatre adds a penny to their revenue. They frankly dislike the RSC's actors, them with their long hair and beards and sandals and noisiness. It's all deliciously ironic when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
+- The tourist streams are not entirely separate. The sightseers who come by bus -- and often take in Warwick Castle and Blenheim Palace on the side -- don't usually see the plays, and some of them are even surprised to find a theatre in Stratford. However, the playgoers do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The sightseers can take in everything and get out of town by nightfall.
+- The townsfolk don't see it this way and local council does not contribute directly to the subsidy of the Royal Shakespeare Company. /Stratford cries poor traditionally/. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+- Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken attendance records for three years in a row. Last year its 1,431 seats were 94 percent occupied all year long and this year they'll do better.) The reason, of course, is that costs have rocketed and ticket prices have stayed low.
+- It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive clientele. They come entirely for the plays, not the sights. They all seem to look alike (though they come from all over) -- lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
+****** From the first two paragraphs, we learn that ________.
+- *the townsfolk deny the RSC's contribution to the town's revenue*
+- the actors of the RSC imitate Shakespeare on and off stage
+- the two branches of the RSC are not on good terms
+- the townsfolk earn little from tourism
+****** It can be inferred from Paragraph 3 that ________.
+- the sightseers cannot visit the Castle and the Palace separately
+- *the playgoers spend more money than the sightseers*
+- the sightseers do more shopping than the playgoers
+- the playgoers go to no other places in town than the theater
+****** By saying "Stratford cries poor traditionally" (Line 2-3, Paragraph  4), the author implies that ________.
+- Stratford cannot afford the expansion projects
+- Stratford has long been in financial difficulties
+- *the town is not really short of money*
+- the townsfolk used to be poorly paid
+****** According to the townsfolk, the RSC deserves no subsidy because  ________.
+- ticket prices can be raised to cover the spending
+- the company is financially ill-managed
+- the behavior of the actors is not socially acceptable
+- *the theatre attendance is on the rise*
+****** From the text we can conclude that the author ________.
+- is supportive of both sides
+- favors the townsfolk's view
+- takes a detached attitude
+- *is sympathetic to the RSC*
+***** 2005-2 科技环保
+****** Text
+- Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure? That the evidence was inconclusive, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
+- There are upsetting parallels today, as scientists in one wave after another try to awaken us to the growing threat of global warming. The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely man-made. The clear message is that we should get moving to protect ourselves. The president of the National Academy, /Bruce Alberts/, added this key point in the preface to the panel's report: "Science never has all the answers. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions."
+- Just as on smoking, voices now come from many quarters insisting that the science about global warming is incomplete, that it's OK to keep pouring fumes into the air until we know for sure. This is a dangerous game: by the time 100 percent of the evidence is in, it may be too late. With the risks obvious and growing, a prudent people would take out an insurance policy now.
+- Fortunately, the White House is starting to pay attention. But it's obvious that a majority of the president's advisers still don't take global warming seriously. Instead of a plan of action, they continue to press for more research -- a classic case of "/paralysis by analysis/."
+- To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research. But research alone is inadequate. If the Administration won't take the legislative initiative, Congress should help to begin fashioning conservation measures. A bill by Democratic Senator Robert Byrd of West Virginia, which would offer financial incentives for private industry, is a promising start. Many see that the country is getting ready to build lots of new power plants to meet our energy needs. If we are ever going to protect the atmosphere, it is crucial that those new plants be environmentally sound.
+****** An argument made by supporters of smoking was that ________.
+- there was no scientific evidence of the correlation between smoking and death
+- the number of early deaths of smokers in the past decades was insignificant
+- *people had the freedom to choose their own way of life*
+- antismoking people were usually talking nonsense
+****** According to Bruce Alberts, science can serve as ________.
+- a protector
+- a judge
+- a critic
+- *a guide*
+****** What does the author mean by “paralysis by analysis” (Last line, Paragraph 4)?
+- *Endless studies kill action.*
+- Careful investigation reveals truth.
+- Prudent planning hinders progress.
+- Extensive research helps decision-making.
+****** According to the author, what should the Administration do about global warming?
+- Offer aid to build cleaner power plants.
+- Raise public awareness of conservation.
+- Press for further scientific research.
+- *Take some legislative measures.*
+****** The author associates the issue of global warming with that of smoking because ________.
+- they both suffered from the government's negligence
+- *a lesson from the latter is applicable to the former*
+- the outcome of the latter aggravates the former
+- both of them have turned from bad to worse
+***** 2004-4 文化教育
+****** Text
+- Americans today don't place a very high value on intellect. Our heroes are
+  athletes, entertainers, and entrepreneurs, not scholars. Even our schools are
+  where we send our children to get a practical education - not to pursue
+  knowledge for the sake of knowledge. Symptoms of pervasive
+  anti-intellectualism in our schools aren't difficult to find.
+- "Schools have always been in a society where practical is more important than
+  intellectual," says education writer Diane Ravitch. "Schools could be a
+  counterbalance." Ravitch's latest book, /Left Back: A Century of Failed
+  School Reforms/, traces the roots of anti-intellectualism in our schools,
+  concluding they are anything but a counterbalance to the American distaste for
+  intellectual pursuits.
+- But they could and should be. Encouraging kids to reject the life of the mind
+  leaves them vulnerable to exploitation and control. Without the ability to
+  think critically, to defend their ideas and understand the ideas of others,
+  they cannot fully participate in our democracy. Continuing along this path,
+  says writer Earl Shorris, "We will become a second-rate country. We will have
+  a less civil society."
+- "Intellect is resented as a form of power or privilege," writes historian and
+  professor Richard Hofstadter in Anti-Intellectualism in American Life, a
+  Pulitzer Prize winning book on the roots of anti-intellectualism in US
+  politics, religion, and education. From the beginning of our history, says
+  Hofstadter, our democratic and populist urges have driven us to reject
+  anything that smells of elitism. Practicality, common sense, and native
+  intelligence have been considered more noble qualities than anything you could
+  learn from a book.
+- Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling
+  and rigorous book learning put unnatural restraints on children: "We are shut
+  up in schools and college recitation rooms for 10 or 15 years and come out at
+  last with a bellyful of words and do not know a thing." Mark Twain's
+  Huckleberry Finn exemplified American anti-intellectualism. Its hero avoids
+  being civilized - going to school and learning to read - so he can preserve
+  his innate goodness.
+- Intellect, according to Hofstadter, is different from native intelligence, a
+  quality we reluctantly admire. Intellect is the critical, creative, and
+  contemplative side of the mind. Intelligence seeks to grasp, manipulate,
+  re-order, and adjust, while intellect examines, ponders, wonders, theorizes,
+  criticizes and imagines.
+- School remains a place where intellect is mistrusted. Hofstadter says our
+  country's educational system is in the grips of people who "joyfully and
+  militantly proclaim their hostility to intellect and their eagerness to
+  identify with children who show the least intellectual promise."
+****** What do American parents expect their children to acquire in school?
+- The habit of thinking independently.
+- Profound knowledge of the world.
+- *Practical abilities for future career.*
+- The confidence in intellectual pursuits.
+****** We can learn from the text that Americans have a history of ________.
+- *undervaluing intellect*
+- favoring intellectualism
+- supporting school reform
+- suppressing native intelligence
+****** The views of Ravitch and Emerson on schooling are ________.
+- identical
+- similar
+- complementary
+- *opposite*
+****** Emerson, according to the text, is probably ________.
+- a pioneer of education reform
+- *an opponent of intellectualism*
+- a scholar in favor of intellect
+- an advocate of regular schooling
+****** What does the author think of intellect?
+- It is second to intelligence.
+- It evolves from common sense.
+- *It is to be pursued.*
+- It underlies power.
+**** enhan
+- Retrospection prepares us a better future.
+***** 题型
+******  细节题
+******* 定位
+- 精确定位
+- 定位到段 -> 通读各段 -> 通读全文
+- 定位到句 -> 题型分类
+
+- 定位：返回原文找到包含 *定位词* （同近义替换词）的 *句子* （线索句）
+- 定位词：
+  1. 一般性定位词：人名，年代，地点；main, most, eventually, sometimes
+  2. 观点词：问观点，找观点；note + 事实
+  3. 因果词：问原因，找原因；问结果，找结果。
+     - As a result, 果
+     - As a result of 因, 果
+  4. which:
+     - 题干定位词：
+     - 选项定位词：
+     - 顺序定位：首句
+- 区别观点和事实
+  1. 包含观点词的句子 -> 观点
+  2. 包含有 *主观价值判断词* （adj.）的句子
+  3. 包含有情态动词，虚拟语气的句子 -> 观点
+- 如何找出作者观点
+  1. 文中无人认领的观点 == 作者的观点
+  2. 作者观点 == 别人观点 != 作者观点
+  3. I + 观点词 == 作者观点
+  4. few + 观点词 == 作者观点
+******* 替换
+- 模糊替换
+******** 同近义词
+******** 上下义词
+******** 正话反说
+******** 归纳不推理
+******** 原文重现
+******* 排除
+******** 检查定位是否正确
+******** 主题为王
+******  态度题
+- 解题方法完全等同细节题（问观点）
+******  推理题
+******* 定位
+1. 利用题干中的定位信息（细节性推理）
+2. 利用段落号 + 选项中的定位信息（段落性推理）
+   - 正确答案一定来自于首末句、转折处、观点句
+3. 问某一句话能推出什么 == 问这句话所在段落能推出什么
+4. 题干中没有任何定位信息
+   1. 选项中的定位信息
+   2. 顺序原则（全文性推理）
+******* 替换
+- 完全等同细节题
+******* 排除
+- 主题为王
+- 信息天生就是不平等的，来自高信息的选项，优先成为正确答案。
+  - 高信息：观点/结论/主题
+  - 低信息：事实/例子/细节
+******  例证题
+- 识别：作者提到……是为了……：example, case, illustrate, demonstrate, ... is
+  mentioned to ..., why ... is mentioned? By bring-up ..., ... is to ...
+******* 定位
+******** 返回原文找到包含例子的句子 != 线索句
+******** 进一步寻找与例子相匹配的观点/结论/主题 == 线索句
+********* 当文中出现明显的例证词时，结论往往就在上一句或下一句
+- for example 上一句
+- there fore 下一句
+********* 文中没有明显例证词时，结论常常位于段落的首句
+********* 特殊情况
+1. 例子，结论 1 but(though) 结论 2 -> 结论 1
+2. 例子 but 结论 A -> 结论!A
+3. 结论，例子 1 but 例子 2
+4. 文章开头的例子常常用来引出（introduce）主题
+******* 替换
+- 完全等同细节题
+******* 排除
+- 检查定位是否正确
+******  词汇题（完形填空）
+- 词本无义，义由境生
+******* 定位
+******** 返回原文找到包含题干的句子
+******** 进一步根据 *句中* 或 *句间* 的正反关系确定题干在文中的对应线索（线索句）
+- 正关系
+  1. 并列
+     1. 并列连词
+     2. 主语相同
+     3. 语义
+  2. 承接
+     - 承接词：since, then, again
+  3. 解释
+     1. 因果
+     2. 定语从句
+     3. 同位语从句
+     4. 标点 [:,--,()]
+  4. 例证
+     1. 例证词
+     2. 列举
+- 反关系
+  - 转折：转折词
+  - but, however, yet, instead, unfortunately, indeed, infact, actually,
+    although, though, while, nevertheless, nonetheless, whereas, in spite of
+******* 替换
+- 完全等同细节题
+******* 排除
+- 主题为王
+- 代入确定或验证答案
+- 与主题含义越接近的选项越是正确选项
+******  主题题
+******* 定位
+- 直接寻找文章中的论题或论点
+- 如何寻找文章中的 *论点* （主题句）或 *论题* （主体词）
+******** 主题句
+- 特征：概括性，观点性，总结性
+- 位置：
+  1. 首句
+  2. 开头转折处
+  3. 引入结束处
+******** 主体词
+- 文中反复出现的（多个）名词
+  - 主题句的主语/名词
+  - 题干中反复出现的名词
+******* 替换
+******** 当文中有明显的主题句时
+- 将四个选项分别与之比对完成同义替换
+******** 当文中没有明显的主题句时，或问文章最好的标题时
+1. 正确选项必须包含主体词或其同义替换词
+2. 正确选项不能包含
+   - 细节（非主体词的名词）
+   - 文中没有提及的内容
+3. 语义辨析，同义替换
+******* 排除
+- 以复数名词为中心语的选项，只有文章结构是 n1,n2,...nn 时罗列式才能成为正确答案，
+  常是说明文的主题
+***** 文章结构
+****** 引入
+- 一句话
+- 一个人
+- 一件事
+- 一个现象
+- 一个对比
+- 一个对照
+****** 论述
+- 论点+论据
+****** 呼应
+******* 重申论点
+******* 给出建议
+******* 展望未来
+***** 总结
+****** 定位
+******* 一步到位
+1. 句子分析和理解能力
+******* 两步到位
+1. 句间关系的识别能力
+2. 句子分析和理解能力
+******* 直接到位
+1. 文章结构和主题的识别能力
+2. 句子分析和理解能力
+****** 替换
+1. 同近义词的替换
+2. 上下义词的替换：
+   - 通常上义词可能直接替换下义词，但是当出现比较或否定时，必须加上泛指词（some,
+     certain, a），避免出现比较对象的偷换，或否定对象偷换。
+   - 主题题中必须加上泛指词，以避免扩大范围。
+3. 正话反说
+4. 归纳不推理
+5. 原文重现
+****** 排除
+******* 检查定位是否正确
+- 细节题：问观点找观点，问原因找原因，问结果找结果
+- 例证题：例子匹配的观点
+- 词汇题：和题干相对应的线索而不是题干本身
+******* 可以使用代入法检验答案
+- 推理题：转折
+- 词汇题：
+- 例证题：转折
+******* 主题为王
+- 信息天生就是不平等的，来自高信息的选项优先成为正确答案
+- 科普类文章必须关注结论
+******* KK 必杀技
+- 当定位、替换完成以后，其两个选项的来源信息没有高低之分的时候，选更深刻的选项
+- 正确选项的特征，模糊性&观点性
+  1. 包含有 may, might, could 的选项，常成为正确选项（不确定性 模糊性）
+  2. 包含有 some, certain, a 的选项，常成为正确选项（泛指词 模糊性）
+  3. 包含有 should 的选项常成为正确选项（观点性 正话反说 模糊性）
+  4. 包含有 change, effort, process 的选项常成为正确选项（泛指性 模糊性）
+- 错误选项的类型
+  1. 偷换
+  2. Not Given
+     1. 单纯性的 NG，原文中没有任何依据，加 may 也不对
+     2. 主客观的混淆
+     3. indispensable, essential 常为 NG，除非原文中出现明确对应
+  3. 定位错误：例证题/细节题/态度题/词汇题
+  4. 主题题的错误
+     1. 没有主体词
+     2. 范围大小不对
+- 最佳选项
+  1. 一定对的 > 可能对的
+  2. 高信息选项 > 低信息选项
+***** plan
+- 文章可以新，思路不能变！
+- 真题过三遍
+  1. KK123
+  2. A（文中答案来源句）B（题干+正确选项）句的积累；
+     认识单词（v./adj.）；
+     句子切分、独立成句；
+  3. 确定错误选项的类型
+**** 5n10p
+***** 1
+****** Text
+- Two years ago, Rupert Murdoch's daughter, Elisabeth, spoke of the "unsettling dearth of integrity across so many of our institutions". Integrity had collapsed, she argued, because of a collective acceptance that the only "sorting mechanism" in society should be profit and the market. But "it's us, human beings, we the people who create the society we want, not profit."
+- Driving her point home, she continued: "It’s increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous foals for capitalism and freedom." This same absence of moral purpose was wounding companies such as News International ,shield thought ,making it more likely that it would lose its way as it had with widespread illegal telephone hacking.
+- As the hacking trial concludes – finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones, and finding his predecessor, Rebekah Brooks, innocent of the same charge – the winder issue of dearth of integrity still stands. Journalists are known to have hacked the phones of up to 5,500 people. This is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking. Others await trial. This long story still unfolds.
+- In many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place. One of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, how little she thought to ask and the fact that she never inquired how the stories arrived. The core of her successful defence was that she knew nothing.
+- In today's world, it has become normal that well-paid executives should not be accountable for what happens in the organizations that they run. Perhaps we should not be so surprised. For a generation, the collective doctrine has been that the sorting mechanism of society should be profit. The words that have mattered are efficiency, flexibility, shareholder value, business–friendly, wealth generation, sales, impact and, in newspapers, circulation. Words degraded to the margin have been justice fairness, tolerance, proportionality and accountability.
+- The purpose of editing the News of the World was not to promote reader understanding to be fair in what was written or to betray any common humanity. It was to ruin lives in the quest for circulation and impact. Ms Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions - nor received traceable, recorded answers.
+****** Q&A
+- 36. According to the first two paragraphs, Elisabeth was upset by
+  *[A] the consequences of the current sorting mechanism*
+  [B] companies' financial loss due to immoral practices.
+  [C] governmental ineffectiveness on moral issues.
+  [D] the wide misuse of integrity among institutions.
+- 37. It can be inferred from Paragraph 3 that
+  [A] Glem Mulcaire may deny phone hacking as a crime
+  *[B] more journalists may be found guilty of phone hacking.*
+  [C] Andy Coulson should be held innocent of the charge.
+  [D] phone hacking will be accepted on certain occasions.
+- 38. The author believes the Rebekah Books’s deference
+  [A] revealed a cunning personality
+  [B] centered on trivial issues
+  *[C] was hardly convincing*
+  [D] was part of a conspiracy
+- 39. The author holds that the current collective doctrine shows
+  *[A] generally distorted values*
+  [B] unfair wealth distribution
+  [C] a marginalized lifestyle
+  [D] a rigid moral code
+- 40. Which of the following is suggested in the last paragraph?
+  [A] The quality of writing is of primary importance.
+  [B] Common humanity is central news reporting.
+  *[C] Moral awareness matters in editing a newspaper.*
+  [D] Journalists need stricter industrial regulations.
+**** zht
+- 18
+***** 1997-4
+- No company likes to be told it is contributing to the moral decline of a
+  nation. "Is this what you intended to accomplish with your careers?" Senator
+  Robert Dole asked Time Warner executives last week. "You have sold your
+  souls, but must you corrupt our nation and threaten our children as well?" At
+  Time Warner, however, such questions are simply the latest manifestation of
+  the soul-searching that has involved the company ever since the company was
+  born in 1990. It's a self-examination that has, at various times, involved
+  issues of responsibility, creative freedom and the corporate bottom line.
+- At the core of this debate is chairman Gerald Levin, 56, who took over for the
+  late Steve Ross in 1992. On the financial front, Levin is under pressure to
+  raise the stock price and reduce the company's mountainous debt, which will
+  increase to $17.3 billion after two new cable deals close. He has promised to
+  sell off some of the property and restructure the company, but investors are
+  waiting impatiently.
+- The flap over rap is not making life any easier for him. Levin has
+  consistently defended the company's rap music on the grounds of expression.
+  In 1992, when Time Warner was under fire for releasing Ice-T's violent rap
+  song Cop Killer, Levin described rap as a lawful expression of street culture,
+  which deserves an outlet. "The test of any democratic society," he wrote in
+  a Wall Street Journal column, "lies not in how well it can control expression
+  but in whether it gives freedom of thought and expression the widest possible
+  latitude, however disputable or irritating the results may sometimes be. We
+  won't retreat in the face of any threats."
+- Levin would not comment on the debate last week, but there were signs that the
+  chairman was backing off his hard-line stand, at least to some extent. During
+  the discussion of rock singing verses at last month's stockholders' meeting,
+  Levin asserted that "music is not the cause of society's ills" and even
+  cited his son, a teacher in the Bronx, New York, who uses rap to communicate
+  with students. But he talked as well about the "balanced struggle" between
+  creative freedom and social responsibility, and he announced that the company
+  would launch a drive to develop standards for distribution and labeling of
+  potentially objectionable music.
+- The 15-member Time Warner board is generally supportive of Levin and his
+  corporate strategy. But insiders say several of them have shown their concerns
+  in this matter. "Some of us have known for many, many years that the freedoms
+  under the First Amendment are not totally unlimited," says Luce. "I think it
+  is perhaps the case that some people associated with the company have only
+  recently come to realize this."
+
+- 63. Senator Robert Dole criticized Time Warner for ________.
+  [A] its raising of the corporate stock price
+  [B] its self-examination of soul
+  [C] *its neglect of social responsibility*
+  [D] its emphasis on creative freedom
+- 64. According to the passage, which of the following is TRUE?
+  [A] Luce is a spokesman of Time Warner.
+  [B] Gerald Levin is liable to compromise.
+  [C] Time Warner is united as one in the face of the debate.
+  [D] *Steve Ross is no longer alive.*
+- 65. In face of the recent attacks on the company, the chairman ________.
+  [A] stuck to a strong stand to defend freedom of expression
+  [B] *softened his tone and adopted some new policy*
+  [C] changed his attitude and yielded to objection
+  [D] received more support from the 15-member board
+- 66. The best title for this passage could be ________.
+  [A] *A Company under Fire*
+  [B] A Debate on Moral Decline
+  [C] A Lawful Outlet of Street Culture
+  [D] A Form of Creative Freedom
+***** 2003-4
+- It is said that in England death is pressing, in Canada inevitable and in
+  California optional. Small wonder. Americans' life expectancy has nearly
+  doubled over the past century. Failing hips can be replaced, clinical
+  depression controlled, cataracts removed in a 30-minute surgical procedure.
+  Such advances offer the aging population a quality of life that was
+  unimaginable when I entered medicine 50 years ago. But not even a great
+  health-care system can cure death —— and our failure to confront that reality
+  now threatens this greatness of ours.
+- Death is normal; we are genetically programmed to disintegrate and perish,
+  even under ideal conditions. We all understand that at some level, yet as
+  medical consumers we treat death as a problem to be solved. Shielded by
+  third-party payers from the cost of our care, we demand everything that can
+  possibly be done for us, even if it's useless. The most obvious example is
+  late-stage cancer care. Physicians—frustrated by their inability to cure the
+  disease and fearing loss of hope in the patient—too often offer aggressive
+  treatment far beyond what is scientifically justified.
+- In 1950, the US spent $12.7 billion on health care. In 2002, the cost will be
+  $1,540 billion. Anyone can see this trend is unsustainable. Yet few seem
+  willing to try to reverse it. Some scholars conclude that a government with
+  finite resources should simply stop paying for medical care that sustains life
+  beyond a certain age —— say 83 or so. Former Colorado governor Richard Lamm
+  has been quoted as saying that the old and infirm "have a duty to die and get
+  out of the way", so that younger, healthier people can realize their
+  potential.
+- I would not go that far. Energetic people now routinely work through their 60s
+  and beyond, and remain dazzlingly productive. At 78, Viacom chairman Sumner
+  Redstone jokingly claims to be 53. Supreme Court Justice Sandra Day O'Connor
+  is in her 70s, and former surgeon general C. Everett Koop chairs an Internet
+  start-up in his 80s.These leaders are living proof that prevention works and
+  that we can manage the health problems that come naturally with age. As a mere
+  68-year-old, I wish to age as productively as they have.
+- Yet there are limits to what a society can spend in this pursuit. As a
+  physician, I know the most costly and dramatic measures may be ineffective and
+  painful. I also know that people in Japan and Sweden, countries that spend far
+  less on medical care, have achieved longer, healthier lives than we have. As a
+  nation, we may be overfunding the quest for unlikely cures while underfunding
+  research on humbler therapies that could improve people's lives.
+
+- 36. What is implied in the first sentence?
+  [A] Americans are better prepared for death than other people.
+  [B] Americans enjoy a higher life quality than ever before.
+  [C] *Americans are over-confident of their medical technology.*
+  [D] Americans take a vain pride in their long life expectancy.
+- 37. The author uses the example of caner patients to show that        .
+  [A] *medical resources are often wasted*
+  [B] doctors are helpless against fatal diseases
+  [C] some treatments are too aggressive
+  [D] medical costs are becoming unaffordable
+- 38. The author's attitude toward Richard Lamm's remark is one of.
+  [A] strong disapproval
+  [B] *reserved consent*
+  [C] slight contempt
+  [D] enthusiastic support
+- 39. In contras to the US, Japan and Sweden are funding their medical care.
+  [A] more flexibly
+  [B] more extravagantly
+  [C] more cautiously
+  [D] *more reasonably*
+- 40. The text intends to express the idea that.
+  [A] medicine will further prolong people's lives
+  [B] life beyond a certain limit is not worth living
+  [C] *death should be accepted as a fact of life*
+  [D] excessive demands increase the cost of health care
+***** 2003-2
+- To paraphrase 18th-century statesman Edmund Burke, "all that is needed for the
+  triumph of a misguided cause is that good people do nothing." One such cause
+  now seeks to end biomedical research because of the theory that animals have
+  rights ruling out their use in research. Scientists need to respond forcefully
+  to animal rights advocates, whose arguments are confusing the public and
+  thereby threatening advances in health knowledge and care. Leaders of the
+  animal rights movement target biomedical research because it depends on public
+  funding, and few people understand the process of health care research.
+  Hearing allegations of cruelty to animals in research settings, many are
+  perplexed that anyone would deliberately harm an animal.
+- For example, a grandmotherly woman staffing an animal rights booth at a recent
+  street fair was distributing a brochure that encouraged readers not to use
+  anything that comes from or is tested in animals—no meat, no fur, no
+  medicines. Asked if she opposed immunizations, she wanted to know if vaccines
+  come from animal research. When assured that they do, she replied, "Then I
+  would have to say yes." Asked what will happen when epidemics return, she
+  said, “Don't worry, scientists will find some way of using computers.” Such
+  well-meaning people just don't understand.
+- Scientists must communicate their message to the public in a compassionate,
+  understandable way—in human terms, not in the language of molecular biology.
+  We need to make clear the connection between animal research and a
+  grandmother's hip replacement, a father's bypass operation, a baby's
+  vaccinations, and even a pet's shots. To those who are unaware that animal
+  research was needed to produce these treatments, as well as new treatments and
+  vaccines, animal research seems wasteful at best and cruel at worst.
+- Much can be done. Scientists could "adopt" middle school classes and present
+  their own research. They should be quick to respond to letters to the editor,
+  lest animal rights misinformation go unchallenged and acquire a deceptive
+  appearance of truth. Research institutions could be opened to tours, to show
+  that laboratory animals receive humane care. Finally, because the ultimate
+  stakeholders are patients, the health research community should actively
+  recruit to its cause not only well-known personalities such as Stephen Cooper,
+  who has made courageous statements about the value of animal research, but all
+  who receive medical treatment. If good people do nothing, there is a real
+  possibility that an uninformed citizenry will extinguish the precious embers
+  of medical progress.
+
+- 26. The author begins his article with Edmund Burke's words to      .
+  [A] *call on scientists to take some actions*
+  [B] criticize the misguided cause of animal rights
+  [C] warn of the doom of biomedical research
+  [D] show the triumph of the animal rights movement
+- 27. Misled people tend to think that using an animal in research is      .
+  [A] cruel but natural
+  [B] *inhuman and unacceptable*
+  [C] inevitable but vicious
+  [D] pointless and wasteful
+- 28. The example of the grandmotherly woman is used to show the public's      .
+  [A] discontent with animal research
+  [B] *ignorance about medical science*
+  [C] indifference to epidemics
+  [D] anxiety about animal rights
+- 29. The author believes that, in face of the challenge from animal rights
+  advocates, scientists should      .
+  [A] *communicate more with the public*
+  [B] employ hi-tech means in research
+  [C] feel no shame for their cause
+  [D] strive to develop new cures
+- 30. From the text we learn that Stephen Cooper is       .
+  [A] a well-known humanist
+  [B] a medical practitioner
+  [C] an enthusiast in animal rights
+  [D] *a supporter of animal research*
+***** 1998-1
+- Few creations of big technology capture the imagination like giant dams.
+  Perhaps it is humankind's long suffering at the mercy of flood and drought
+  that makes the idea of forcing the waters to do our bidding so fascinating.
+  But to be fascinated is also, sometimes, to be blind. Several giant dam
+  projects threaten to do more harm than good.
+- The lesson from dams is that big is not always beautiful. It doesn't help that
+  building a big, powerful dam has become a symbol of achievement for nations
+  and people striving to assert themselves. Egypt's leadership in the Arab world
+  was cemented by the Aswan High Dam. Turkey's bid for First World status
+  includes the giant Ataturk Dam.
+- But big dams tend not to work as intended. The Aswan Dam, for example, stopped
+  the Nile flooding but deprived Egypt of the fertile silt that floods left --
+  all in return for a giant reservoir of disease which is now so full of silt
+  that it barely generates electricity.
+- And yet, the myth of controlling the waters persists. This week, in the heart
+  of civilized Europe, Slovaks and Hungarians stopped just short of sending in
+  the troops in their contention over a dam on the Danube. The huge complex will
+  probably have all the usual problems of big dams. But Slovakia is bidding for
+  independence from the Czechs, and now needs a dam to prove itself.
+- Meanwhile, in India, the World Bank has given the go-ahead to the even more
+  wrong-headed Narmada Dam. And the bank has done this even though its advisors
+  say the dam will cause hardship for the powerless and environmental
+  destruction. The benefits are for the powerful, but they are far from
+  guaranteed.
+- Proper, scientific study of the impacts of dams and of the cost and benefits
+  of controlling water can help to resolve these conflicts. Hydroelectric power
+  and flood control and irrigation are possible without building monster dams.
+  But when you are dealing with myths, it is hard to be either proper, or
+  scientific. It is time that the world learned the lessons of Aswan. You don't
+  need a dam to be saved.
+
+- 51. The third sentence of Paragraph 1 implies that ________.
+  [A] people would be happy if they shut their eyes to reality
+  [B] the blind could be happier than the sighted
+  [C] *over-excited people tend to neglect vital things*
+  [D] fascination makes people lose their eyesight
+- 52. In Paragraph 5, "the powerless" probably refers to ________.
+  [A] areas short of electricity
+  [B] dams without power stations
+  [C] poor countries around India
+  [D] *common people in the Narmada Dam area*
+- 53. What is the myth concerning giant dams?
+  [A] They bring in more fertile soil.
+  [B] They help defend the country.
+  [C] They strengthen international ties.
+  [D] *They have universal control of the waters.*
+- 54. What the author tries to suggest may best be interpreted as ________.
+  [A] "It's no use crying over spilt milk"
+  [B] "More haste, less speed"
+  [C] *"Look before you leap"*
+  [D] "He who laughs last laughs best"
+***** 2000-4
+- ①Aimlessness has hardly been typical of the postwar Japan whose productivity
+  and social harmony are the envy of the United States and Europe. ②But
+  increasingly the Japanese are seeing a decline of the traditional work-moral
+  values. ③Ten years ago young people were hardworking and saw their jobs as
+  their primary reason for being, but now Japan has largely fulfilled its
+  economic needs, and young people don't know where they should go next.
+- ①The coming of age of the postwar baby boom and an entry of women into the
+  male-dominated job market have limited the opportunities of teenagers who are
+  already questioning the heavy personal sacrifices involved in climbing
+  Japan's rigid social ladder to good schools and jobs. ②In a recent survey,
+  it was found that only 24.5 percent of Japanese students were fully satisfied
+  with school life, compared with 67.2 percent of students in the United States.
+  ③In addition, far more Japanese workers expressed dissatisfaction with their
+  jobs than did their counterparts in the 10 other countries surveyed.
+- ①While often praised by foreigners for its emphasis on the basics, Japanese
+  education tends to stress test taking and mechanical learning over creativity
+  and self-expression. ②"Those things that do not show up in the test scores —
+  personality, ability, courage or humanity — are completely ignored," says
+  Toshiki Kaifu, chairman of the ruling Liberal Democratic Party's education
+  committee. ③"Frustration against this kind of thing leads kids to drop out
+  and run wild." ④Last year Japan experienced 2,125 incidents of school
+  violence, including 929 assaults on teachers. ⑤Amid the outcry, many
+  conservative leaders are seeking a return to the prewar emphasis on moral
+  education. ⑥Last year Mitsuo Setoyama, who was then education minister,
+  raised eyebrows when he argued that liberal reforms introduced by the American
+  occupation authorities after World War II had weakened the "Japanese morality
+  of respect for parents."
+- ①But that may have more to do with Japanese life-styles. ②"In Japan," says
+  educator Yoko Muro, "it's never a question of whether you enjoy your job and
+  your life, but only how much you can endure." ③With economic growth has come
+  centralization; fully 76 percent of Japan's 119 million citizens live in
+  cities where community and the extended family have been abandoned in favor of
+  isolated, two-generation households. ④Urban Japanese have long endured
+  lengthy commutes (travels to and from work) and crowded living conditions, but
+  as the old group and family values weaken, the discomfort is beginning to
+  tell. ⑤In the past decade, the Japanese divorce rate, while still well below
+  that of the United States, has increased by more than 50 percent, and suicides
+  have increased by nearly one-quarter.
+
+- 23. In the Westerners' eyes, the postwar Japan was.
+  [A] under aimless development
+  [B] *a positive example*
+  [C] a rival to the West
+  [D] on the decline
+- 24. According to the author, what may chiefly be responsible for the moral
+  decline of Japanese society?
+  [A] Women's participation in social activities is limited.
+  [B] More workers are dissatisfied with their jobs.
+  [C] Excessive emphasis has been placed on the basics.
+  [D] *The life-style has been influenced by Western values.*
+- 25. Which of the following is true according to the author?
+  [A] Japanese education is praised for helping the young climb the social
+  ladder.
+  [B] Japanese education is characterized by mechanical learning as well as
+  creativity.
+  [C] *More stress should be placed on the cultivation of creativity.*
+  [D] Dropping out leads to frustration against test taking.
+- 26. The change in Japanese life-style is revealed in the fact that.
+  [A] *the young are less tolerant of discomforts in life*
+  [B] the divorce rate in Japan exceeds that in the U.S.
+  [C] the Japanese endure more than ever before
+  [D] the Japanese appreciate their present life
+***** 2001-3
+- Why do so many Americans distrust what they read in their newspapers? The
+  American Society of Newspaper Editors is trying to answer this painful
+  question. The organization is deep into a long self-analysis known as the
+  journalism credibility project.
+- Sad to say, this project has turned out to be mostly low-level findings about
+  factual errors and spelling and grammar mistakes, combined with lots of
+  headscratching puzzlement about what in the world those readers really want.
+- But the sources of distrust go way deeper. Most journalists learn to see the
+  world through a set of standard templates (patterns) into which they plug each
+  day's events. In other words, there is a conventional story line in the
+  newsroom culture that provides a backbone and a ready-made narrative structure
+  for otherwise confusions news.
+- There exists a social and cultural disconnect between journalists and their
+  readers which helps explain why the "standard templates" of the newsroom seem
+  alien many readers. In a recent survey, questionnaires were sent to reporters
+  in five middle size cities around the country, plus one large metropolitan
+  area. Then residents in these communities were phoned at random and asked the
+  same questions.
+- Replies show that compared with other Americans, journalists are more likely
+  to live in upscale neighborhoods, have maids, own Mercedeses, and trade
+  stocks, and they're less likely to go to church, do volunteer work, or put
+  down roots in community.
+- Reporters tend to be part of a broadly defined social and cultural elite, so
+  their work tends to reflect the conventional values of this elite. The
+  astonishing distrust of the news media isn't rooted in inaccuracy or poor
+  reportorial skills but in the daily clash of world views between reporters and
+  their readers.
+- This is an explosive situation for any industry, particularly a declining one.
+  Here is a troubled business that keeps hiring employees whose attitudes vastly
+  annoy the customers. Then it sponsors lots of symposiums and a credibility
+  project dedicated to wondering why customers are annoyed and fleeing in large
+  numbers. But it never seems to get around to noticing the cultural and class
+  biases that so many former buyers are complaining about. If it did, it would
+  open up its diversity program, now focused narrowly on race and gender, and
+  look for reporters who differ broadly by outlook, values, education, and
+  class.
+
+- 29. What is the passage mainly about?
+  [A] needs of the readers all over the world.
+  [B] *causes of the public disappointment about newspapers.*
+  [C] origins of the declining newspaper industry.
+  [D] aims of a journalism credibility project.
+- 30. The results of the journalism credibility project turned out to be ______.
+  [A] quite trustworthy
+  [B] somewhat contradictory
+  [C] very illuminating
+  [D] *rather superficial*
+- 31. The basic problem of journalists as pointed out by the writer lies in
+  their  ______.
+  [A] working attitude
+  [B] conventional lifestyle
+  [C] *world outlook*
+  [D] educational background
+- 32. Despite its efforts, the newspaper industry still cannot satisfy the
+  readers  owing to its_______.
+  [A] *failure to realize its real problem*
+  [B] tendency to hire annoying reporters
+  [C] likeliness to do inaccurate reporting
+  [D] prejudice in matters of race and gender
+***** 2001-4
+- The world is going through the biggest wave of mergers and acquisitions ever
+  witnessed. The process sweeps from hyperactive America to Europe and reaches
+  the emerging countries with unsurpassed might. Many in these countries are
+  looking at this process and worrying: "Won't the wave of business
+  concentration turn into an uncontrollable anti-competitive force?"
+- There's no question that the big are getting bigger and more powerful.
+  Multinational corporations accounted for less than 20% of international trade
+  in 1982. Today the figure is more than 25% and growing rapidly. International
+  affiliates account for a fast-growing segment of production in economies that
+  open up and welcome foreign investment. In Argentina, for instance, after the
+  reforms of the early 1990s, multinationals went from 43% to almost 70% of the
+  industrial production of the 200 largest firms. This phenomenon has created
+  serious concerns over the role of smaller economic firms, of national
+  businessmen and over the ultimate stability of the world economy.
+- I believe that the most important forces behind the massive M&A wave are the
+  same that underlie the globalization process: falling transportation and
+  communication costs, lower trade and investment barriers and enlarged markets
+  that require enlarged operations capable of meeting customers' demands. All
+  these are beneficial, not detrimental, to consumers. As productivity grows,
+  the world's wealth increases.
+- Examples of benefits or costs of the current concentration wave are scanty.
+  Yet it is hard to imagine that the merger of a few oil firms today could
+  re-create the same threats to competition that were feared nearly a century
+  ago in the U.S., when the Standard Oil Trust was broken up. The mergers of
+  telecom companies, such as WorldCom, hardly seem to bring higher prices for
+  consumers or a reduction in the pace of technical progress. On the contrary,
+  the price of communications is coming down fast. In cars, too, concentration
+  is increasing - witness Daimler and Chrysler, Renault and Nissan - but it does
+  not appear that consumers are being hurt.
+- Yet the fact remains that the merger movement must be watched. A few weeks
+  ago, Alan Greenspan warned against the megamergers in the banking industry.
+  Who is going to supervise, regulate and operate as lender of last resort with
+  the gigantic banks that are being created? Won't multinationals shift
+  production from one place to another when a nation gets too strict about
+  infringements to fair competition? And should one country take upon itself the
+  role of "defending competition" on issues that affect many other nations, as
+  in the U.S. vs. Microsoft case?
+
+- 33. What is the typical trend of businesses today?
+  [A] to take in more foreign funds.
+  [B] to invest more abroad.
+  [C] *to combine and become bigger.*
+  [D] to trade with more countries.
+- 34. According to the author, one of the driving forces behind M&A wave is
+  ______
+  [A] *the greater customer demands.*
+  [B] a surplus supply for the market.
+  [C] a growing productivity.
+  [D] the increase of the world's wealth.
+- 35. From paragraph 4 we can infer that ______.
+  [A] the increasing concentration is certain to hurt consumers
+  [B] WorldCom serves as a good example of both benefits and costs
+  [C] the costs of the globalization process are enormous
+  [D] *the Standard Oil Trust might have threatened competition*
+- 36. Toward the new business wave, the writer's attitude can he said to be
+  _______.
+  [A] optimistic
+  [B] *objective*
+  [C] pessimistic
+  [D] biased
+*** trans
+- [3/4]
+- 4 1:02:35
+- 确定主干
+- 切分成分
+- 独立成句
+- 调整语序
+**** 词的处理
+***** 词组的积累
+- at the outset 一开始
+- jump to the rescue 匆匆介入
+- be obliged to sth 感谢
+- be obliged to do sth 被迫/必须 做
+- take root 扎根于
+- a sort of 某种
+- piece together 汇编
+- at the end of the day 说到底
+- in terms of 就……而言
+***** 词义的选择
+***** 增词的译法
+- 增词不增义
+****** 增加动词
+- He dismissed the meeting without a closing speech.
+****** 介词转译为动词
+- He arrived here by train.
+- He was on the wrong track.
+- He was against the plan.
+****** adj. 前面加上程度副词
+- The park is beautiful.
+****** 抽象名词加上具体名词
+****** 复数名词加“种种”“各种”“各项”
+****** 并列的增词（省略）
+- You may apply in person or by letter.
+***** 减词的译法
+- 减词不减义
+****** 代词的减译
+- He put his hand into his pockets.
+- He covered his face with his hand as if to protect his eyes.
+****** Be 动词的省译
+- My father is out.
+- The students are in the park.
+****** 介词的省译
+- Smoking is prohibited in public places.
+- Change of information, if any, concerning the contents of this section will be
+  found in the appendix at the end of this book.
+- n. +of+ doing
+****** 名词的省译
+- 上义词 +A+ of B -> the practice of
+- 表示比喻的名词 +the train of+ thought
+****** 动词的省译
+- +give/make/come/go/take/pay+ + 动态名词
+- 系动词
+****** 连词的省译
+- If winter comes, can spring be far behind?
+- This system has become ineffective since it has many disadvantages.
+***** 动态名词或动态形容词
+- 转译为动词，其他成分相应变化。
+- Your refusal to come might offend others.
+- Careful comparison of them will show you the difference.
+- I have no knowledge of the financial situation of this company.
+- I am ignorant of the financial situation of this company.
+- The emphasis on data gathered first-hand, combined with a cross-cultural
+  perspective brought to the analysis of cultures past and present, makes this
+  study a unique and distinctly important social science.
+- Darwin was convinced that the loss of these tastes was not only a loss
+  happiness, but might possibly be injurous to the intellect, and more probably
+  to the moral character.
+***** 副词的处理
+- 单独翻译
+- understandably 可理解的是
+- presumptively 有理由相信
+- arguably 可能，大概
+- ecologically 从生态的角度讲
+- academically 从学校的角度讲
+- historically 从历史的角度讲
+- scientifically 从科学的角度讲
+***** 代词的处理
+****** 省译
+****** 直接翻译为对应汉语
+****** 确定其指代的名词再翻译名词
+- 通常不阅读上下文，出现指代时才阅读上下文。
+****** This,it,that
+- 这种情况，这种说法，这种观点，事实
+- Actually, it isn't.
+***** 人名的处理，地名，专有名词
+****** 遵照习惯
+****** 按照音译
+****** 抄英文
+**** 句子成分的处理
+***** 同位语的处理（从句）
+****** 单独成句置于句首
+****** 顺译为：
+- 也就是说……
+- 这就是……
+****** 用冒号或括号解释
+- Arguing from the view that humans are different from animals in every relevant
+  respect, extremists of this kind think that animals lie outside the area of
+  moral choice.
+- If the small hot spots look as expected, that will be a triumph for yet
+  another scientific idea, a refinement of the Big Bang called the inflationary
+  universe theory.
+- The shark, a hugely successful fish in evolutionary terms, with a lineage
+  dating back more than 400 million years, is under relentless attack from
+  humans.
+- Additional social stresses may also occur because of the population explosion
+  or problems arising from mass migration movements -- themselves made
+  relatively easy nowadays by modern means of transport.
+***** 定语的处理（从句）
+****** 前置
+- 定语结构简单，信息负载量不大时
+****** 后置
+- 结构复杂，信息负载量较大时，后置、独立成句
+***** 形式主语的处理
+****** 可以当作固定词组，翻译整句话的最前面
+- It is reported that ……
+- It is important that ……
+****** 可以放到句末，这是……的
+***** 状语的处理（位置不固定）
+****** 状语的位置常常是主语后，动词前；时间在前，地点在后
+****** 状语从句可以直接翻译
+- 时间，条件，让步和原因翻译到主句前
+***** 插入语的处理
+- 任何成分都可充当插入语
+- 识别出其具体成分，再做相应处理
+***** There be 句型的处理
+****** 将英语中的状语翻译为汉语后作主语
+- There is a temple on the hill.
+****** 增译“人们，大家，我们”等泛指主语
+- There is no agreement.
+****** 翻译为汉语的无主句（有，出现，存在）
+- There will be a warm winter.
+***** 被动结构的处理
+- 通顺
+****** 顺译为被动
+- 被，把，将，挨，给，叫，让，由，受，遭到，受到，予，予以，加，加以，引以，
+  为……所，经……所，得到，得以
+- Metals are deliberately mixed to produce hundreds of new substances with
+  desirable qualities not otherwise available.
+  - 这些物质具有其他物质没有的符合人们需求的特性。
+- The funds can be only obtained through website not otherwise available.
+- Other processes will be discussed briefly.
+  - 加以简要地讨论。
+****** 改译为主动
+- Love can not be forced.
+- The quality of our products has been greatly improved.
+  - 产品质量有了很大提高。
+- 加泛指主语 / 变为无主句
+- Although little is known about how hypnosis works, it has been made use of in
+  medical treatment.
+- feel, know, believe, see, hear
+- He was seen fighting with a girl.
+- No larger alterations to the economy are made.
+  - 不用对经济做大的改动。
+- Animals should be treated with care.
+****** 将介词后的宾语译为汉语主语
+- Light and heat can be given to us by the sun.
+- Heat is removed from the body during sweating.
+- Abundant exercises and problems are provided in this reference book.
+***** 比较结构的处理
+****** more than
+- more ... than ...
+  - more 肯定 than 否定
+- less ... than ...
+  - less 否定 than 肯定
+- Futurist poetry is more of a transient phenomenon than literature.
+- The act of memorizing is more of a cognitive exercise than an intuitive one.
+- more ... than 句子
+- The unemployment rate has fallen far faster over the past year than the tepid
+  recoveries in both countries seem to justify.
+- He earns more money than he can spend.
+****** not so much as
+- not so much A as B
+  - 与其说 A，不如说 B
+- What Chinese manufacturing lacks is not so much quality control as
+  accountability.
+****** less more
+- less 否定 more 肯定
+- Interest arisen less through A more from B.
+****** no more than
+- no more ... than ... == not ... any more than ...
+- 双方否定
+- But his primary task is not to think about the moral code which governs his
+  activity, any more than a businessman is expected to dedicate his energies to
+  an exploration of rules of conduct in business.
+  - 他首要的责任并不是思考指导他行为的道德规范，就正如人们不指望一个商人将致力于
+    探究商业中的行为规范那样。
+- Nobody with any sense expects to find the whole truth in job advertisement any
+  more than he expects a man applying for a job to describe his shortcomings and
+  more serious faults.
+  - 任何有常识的人都不会指望，在一则招聘广告中看到的都是真的，同样/正如 他不指望
+    一个申请工作的人会描述他的缺点和错误那样。
+- He sees the gradual disappearance of "whom" to be natural and no more
+  regrettable than the loss of the case-endings of Old English.
+  - 他认为 whom 的逐渐消失同古英语中“格结尾”的消失一样不令人遗憾。
+- love you more than I can say
+- They may teach very well and more than earn their salaries, but most of them
+  make little or no independent reflections on human problems which involve
+  moral judgment.
+  - 他们教书教得很好，而且不仅为了挣工资，但是大多数老师很少甚至没有独立得去反思
+    过涉及道德判断的人类问题。
+**** exam
+***** 2001
+- In less than 30 years' time the Star Trek holodeck will be a reality. Direct
+  links between the brain's nervous system and a computer will also create full
+  sensory virtual environments, allowing virtual vacations like those in the
+  film Total Recall.
+- _There will be television chat shows hosted by robots, and cars with pollution
+  monitors that will disable them when they offend._
+***** 2008
+- In his autobiography, Darwin himself speaks of his intellectual powers with
+  extraordinary modesty. He points out that he always experienced much
+  difficulty in expressing himself clearly and concisely, but (46) _he believes
+  that this very difficulty may have had the compensating advantage of forcing
+  him to think long and intently about every sentence, and thus enabling him to
+  detect errors in reasoning and in his own observations._ He disclaimed the
+  possession of any great quickness of apprehension or wit, such as
+  distinguished Huxley. (47) _He asserted, also, that his power to follow a long
+  and purely abstract train of thought was very limited, for which reason he
+  felt certain that he never could have succeeded with mathematics._ 进行长时间
+  的和完全抽象的思维的能力非常有限，正是这个原因他确信在数学方面绝不会取得成功。
+  His memory, too, he described as extensive, but hazy. So poor in one sense was
+  it that be never could remember for more than a few days a single date or a
+  line of poetry. (48) _On the other hand, he did not accept as well founded the
+  change made by some of his critics that, while he was a good observer he had
+  no power of reasoning._ 另一方面，他的一些批评者指责说，虽然他是一个好的观察者，
+  但是他却没有推理的能力，达尔文并不认为这种指责是有根据的。This, he thought,
+  could not be true, because the "Origin of Species" is one long argument from
+  the beginning to the end, and has convinced many able men . No one, he
+  submits, could have written it without possessing some power of reasoning. He
+  was willing to assert that "I have a fair share of invention, and of common
+  sense of judgment. Such as every fairly successful lawyer or doctor must have,
+  but not, I believe, in any higher degree" (49) _He adds humbly that perhaps be
+  was "superior to the common run of men in noticing things which easily escape
+  attention, and in observing them carefully."_ 他谦虚地补充道，有可能，在注意到
+  易于被忽视的事物以及仔细观察这些事物方面，他要优于常人。
+- Writing in the last year of his life, he expressed the opinion hat in two or
+  three respects his mind had changed during the preceding twenty or thirty
+  years. Up to the age of thirty or beyond it poetry of many kinds gave him
+  great pleasure. Formerly, too, pictures had given him considerable and music
+  very great delight. In 1881, however, he said: “Now for many years I cannot
+  endure to read a line of poetry. I have also almost lost my taste for picture
+  or music.” (50) _Darwin was convinced that the loss of these tastes was not
+  only a loss of happiness but might possibly be injurious to the intellect ,
+  and more probably to the moral character._
+*** writ
+- Retrospection is preparing us for the future.
+**** recite
+1. Just as an old Chinese proverb says, ... Aspire to inspire until I expire!
+   - 生命不息，奋斗不止
+2. Simple as the picture is, the symbolic meaning behind it is as deep as ocean.
+   - 尽管图画很简单，寓意却非常深刻。
+3. With current state of affairs being so sorry, it is high time that we took
+   effective measures to tackle this problem.
+   - 问题如此严重，是马上采取有效措施解决这个问题的时候了。
+4. It is imperative that corresponding laws and regulations be introduced and
+   enforced to curb and harness this urgent problem.
+   - 我们必须制订并执行一些法律法规来解决这个问题。
+5. In no country other than China, it has been said, is the problem of
+   environment more serious.
+   - 在中国环境问题是最严重的。
+6. There has been a heated discussion about this picture in the newspaper.
+   - 报纸上在一张图画引起人们广泛的关注。
+7. devoted attention and instant action.
+   - 特别的关注和立即的行动。
+8. The future has arrived.
+   - 未来已经到来。
+9. It commences now.
+   - 他始于现在。
+**** 关于内容
+- 有话可说（万能角度，万能例子）
+- 避免跑题（内容趋同，先字后图）
+- 内容判断非常清晰，结论非常明确
+***** 成功品质
+***** 社会话题
+- 创新
+  - innovation / the spirit of innovation
+  - creation
+  - the spirit to think different
+  - the courage to embrace a new journey /an unexpected journey
+  - the critical thinking ability
+  - the ability to think out-of-the-box
+- 诚信
+- 榜样
+**** 形式
+1. 2-3 句子（30-60 字）
+2. 4-9 句子（100-120 字）
+3. 3-4 句子（30-60 字）
+**** 语言
+1. 语言正确
+   1. 句式正确：动词正确，主干正确，动词性质
+   2. 用词正确：词性
+2. 语言多变
+   1. 句式复杂
+   2. 用词多样
+**** 图画作文思路
+题干要求举例则必须举例，在第二段或第三段
+***** 图画描述
+****** 图画描述句
+- briefly 简要描述
+- 与主题相关（描述是为主题服务的）
+
+- As is shown above, 用 *完全倒装* 描述中心对象的位置，用 *非谓语动词*
+  （doing, did）或 *定语从句* 描述中心对象的动作或状态（多个），用 *独
+  立主格* 结构描述周围对象或 中心对象的某一部分之动作或状态；
+- 如果是两幅图画就用两句话描述
+- 配图文字可以不处理，也可以用谚语改写单独成句，或 , with the caption
+  reading that + 翻译
+
+- As is shown above, behind the Lost and Found counter sits an old
+  lady, waiting for the owners of the lost articles, with lost items
+  put on the shelf behind her, love, responsibility, sympathy,
+  conscience and the like.
+
+- As is shown above, in the middle of the picture stands a college
+  student, carrying a desk and holding a pen, which symbolizes that he
+  is occupying a seat in the reading room for himself.
+- This picture, if posted on the weibo, a popular social media in
+  China, will trigger a heated discussion.
+
+- , which symbolizes...
+- , which is symbolic of ...
+- , symbolizing ...
+
+- As is shown above, on the thick pile of academic research papers
+  proudly stands an old professor, seeming/being satisfied with his
+  success in study and research but ignoring the demands of students.
+
+- As is shown above, in the middle of the picture happily run a lot of
+  youngsters, rushing to the donation box from all directions and
+  trying to contribute their love to the people in the need of help.
+
+- As is shown above, on the bus stands a teenager/child, offering his seat to an
+  old lady who seems satisfied with his decent behavior, with some adults
+  ignoring grandma's need and pretending to sleep.
+****** 图画影响句
+- 引起关注
+
+- The topic illustrated in the picture will make good copy in the newspaper.
+
+- 引起
+  - draw
+  - trigger
+  - spark
+  - arouse
+  - stimulate
+  - cause
+  - prompt
+  - promote
+- 关注
+  - attention
+  - imagination
+  - abundant imagination
+  - much attention
+  - in China, a nation with great population
+  - on weibo, a popular social media
+  - on wechat, an influential social network
+  - if posted on moments
+****** 图画意义句
+- 深刻
+
+- as profound as ocean
+- The drawing truly displays _a status quo_ (现状) that is worthy of
+  our attention.
+- We connot afford to turn a blind eye to the problem highlighted by
+  this picture.
+  - 我们必须重视这幅图画所呈现的问题
+- This picture reveals a deeper and far-reaching meaning than it
+  appears to be.
+***** 意义阐释
+****** 提出论点
+- 主题很重要
+  - 品质 美德 交流
+- 主题很有害
+  - 环境污染
+  - 缺乏 缺失
+  - 道德滑坡
+  - 过度
+- The picture tells us that nothing can be compared with 主题 when it comes to
+  the personal growth, especially in this ever rapidly changing world.
+- The picture demonstrates that /the sense of environmental preservation/ is
+  part and parcel to the sound growth of society and its absence will inevitably
+  inflict/cause great losses on us.
+- The picture tells us that /the honesty/ was, is and remains to be an integral
+  part in one's success, be it the individual or the organizational.
+- The picture/drawing/photo illustrates that the positive mental state plays a
+  pivotal role in individual success, especially when confronting the setback
+  and the adversity.
+- The drawing reminds us that /the social value of morality/ should be enhanced
+  and maintained to ensure a healthy community, which is in the best interests
+  of the general public.
+****** 强调论点（递进）
+- 连接词 + 表示重要性的句子
+  1. To be sure,
+  2. That is to say,
+  3. In other words,
+  4. Put it another way,
+  5. Obviously,
+  6. Specifically speaking,
+  7. Beyond any dispute,
+  8. Doubtless,
+  9. Undeniably,
+  10. To put it strong,
+  11. What's more,
+  12. Furthermore,
+  13. By doing so,
+  14. On one hand, on the other hand,
+  15. Additionally,
+  16. From my personal perspective,
+  17. Personally speaking,
+  18. It is not hard to imagine,
+  19. It would not be a stretch to say that
+- To be sure, never in any era of our nation have the stakes involving
+  /environmental protection/ been higher than now.
+- Indeed, the idea that a child can attain personal success only with individual
+  efforts oversimplifies. The effect of role model also matters a lot.
+****** 公众态度
+- 重视 支持
+- 不重视 反对
+- The general public has/have attached due attention to this positive
+  momentum/force.
+- Due attention has been attached not only by the government but by the
+  organizations and individuals.
+- The public fails to stress the fundamental role of environmental preservation
+  in the sound growth of a modern society.
+- No one would deny that independence is truly the vital attribute of top
+  performers, which separates the high achievers from the rest of the pack.
+- People in all walks of life take substantial note of this character.
+- This topic has been now high on the government's agenda.
+****** 强调公众态度
+- 连接词 + 重视的另一种表达
+****** 句群（展开）
+- 展开方法
+  1. 科学论据法
+     - According to one of the latest serveys conducted by a certain
+       international organization, 列举数字+定语从句补充说明
+     - According to a survey, money spent on pets in the city of Beijing is as
+       much as 1,721,000/1.72 billion dollar, which can feed all the Japanese in
+       the world for a whole year.
+
+     - Money spent on sth is as much as ...
+     - Money spent on sth has reached as much as ...
+     - Money earned/collected/raised is as much as ...
+
+     - China Daily has conducted an interview recently on this topic, involving
+       four individuals - a surgeon, a lawyer, a civil servant and a steel worker.
+     - This survey discovers that all of them are of the idea that 主题重要/主题
+       有害（本文观点）。
+
+     - According to a survey conducted by Chinese Academy of Science (CAS) /
+       Chinese Academy of Social Science (CASS),
+       - those who are confident are more likely to establish career, compared
+         with those who are not.
+       - those who are influenced by the effect of role model in family education
+         are more likely to succeed in any field, compared with those who are not.
+       - those who worship stars are more likely to squander time, compared with
+         those who do not.
+  2. 举例法
+     1. For example, ...
+        - ..., for example / for instance, ...
+     2. Our society has been filled with a variety of examples of (主题), with
+        the following one being the most impressive.
+     3. Among all touching facts relating to (主题) that I have heard, noticed
+        and experienced, the most impressive one is ... .
+     4. Take sb, 同位语, for example. It is 主题 that helps sb do sth.
+        - Take Jack Ma, the founder of Alibaba and Taobao, the largest
+          e-commercial platform in the world, for example,
+        - It is the spirit of creation that helps him achieve his personal
+          ambition and create great value both for shareholders and for the
+          whole society.
+     5. Sb, 同位语, serves as a shining and fitting example here. Put it another
+        way around, it is impossible that sb can do sth without 主题.
+        - Elon Musk, the founder of SpaceX and Tesla, the symbol of creative
+          thinking in Silicon Valley, serves as a shining and fitting example
+          here.
+        - Put it another way around, it is impossible that Musk can fulfill his
+          dream to change the world without the courage to embrace unexpected
+          setbacks and challenges.
+     6. Sb, 同位语, tells with his/her life story that 主题 however, whenever
+        and wherever is/are the golden rule(s) to the success.
+        - Nelson Mandala, a giant and a great hero, tells with his life story
+          that fortitude in the face of adversity and perseverance on your dream
+          however, whenever and wherever are the golden rules to the success.
+  3. 平行展开法
+     - 角度平行
+     - 语言平行
+     - We have been fully informed that ..., but we still lack sufficient
+       awareness of the possible danger of this issue relfected in the picture.
+     - 我们已经充分了解了……，但是对于这幅图画所呈现的问题的可能的危险依然缺乏
+       足够的认识。
+     - 提升
+       - Enhance
+       - Promote
+       - Improve
+       - Facilitate
+       - Stimulate
+       - Upgrade
+       - Boost
+       - Enrich
+     - 加强
+       - Reinforce
+       - Strengthen
+       - Consolidate
+       - Hone
+       - Sharpen
+       - intensify
+     - 培养
+       - Cultivate
+       - Foster
+       - Nurture
+     - 执行/制定
+       - Perform
+       - Conduct
+       - Implement
+       - Formulate
+       - Introduce
+     - 珍惜
+       - Value
+       - Treasure
+       - Cherish
+     - 解决
+       - Combat
+       - Address
+       - Solve
+       - Tackle
+       - Harness
+       - Curb
+       - Optimise
+     - 破坏
+       - Erode
+       - Exhause
+       - Undermine
+       - Jeopardize
+       - Degrade
+       - Ruin
+       - Stifle
+       - Violate
+       - Spoil
+       - Breach
+     - 恶化/阻碍
+       - Corrupt
+       - Distort
+       - Aggravate
+       - Hinder
+       - Impede
+       - Obstruct
+     - 提升性表达
+       1. more than (肯定)
+          - This is more than a challenge. 这不只是一个挑战。
+          - The setting of role model is more than a way to educate children,
+            but an effective mode of communication as well.
+       2. far from being (决不是)
+          - It is far from being a challenge.
+          - China is far from being a world economic leading nation.
+       3. Contrary to a popular assumption = Contrary to a common belief
+          - 句子开头 + 观点
+          - Contrary to a common belief, environmental preservation should have
+            priority over economic growth.
+       4. 双重否定 == 肯定
+          - It is not unrealistic to promote job satisfaction in any job.
+          - These days, it is not uncommon that many graduates will elect being
+            a civil servant as their top choice when hunting a job for many
+            clear advantages (e.g., secured position, stable income or better
+            social welfare).
+       5. anything but (否定) / nothing but (肯定)
+          - It is anything but a challenge.
+       6. Be 被替换
+          - Internet is an instructive form of entertainment.
+          - Internet is well received as an instructive form of entertainment.
+          - has been well received as
+          - Be well considered as
+          - Be well seen as
+          - Be well deemed as
+          - Be well regarded as
+
+          - 文艺复兴
+          - Rinascimento
+          - Renaissance
+          - Leonardo Da Vinci
+       7. 连接三个以上名词
+          - Not only A, but also B, and such benefits/problems as C and D.
+       8. 并列动词的使用
+          - Physical exercise can shield us from ... and prevent us from ...
+       9. not the least 最高级
+          - Not the least of the factors that make for success in any field is
+            ...
+       10. in terms of 就……而言
+           - 主题 will give youngsters an advantage in terms of coping with the
+             challenges of student life.
+           - The world will be changing constantly in terms of technology.
+       11. Admittedly ... Nevertheless ... 虽然，但是
+           - Admittedly, /advertisements/ / /cartoon series/ are popular among
+             children as a source of entertainment. Nevertheless, they may give
+             young viewers some misleading impression.
+       12. while / whereas 虽然 / 但是
+           - While some people link happiness to wealth and material success,
+             others think it lies in emotions and loving personal relationships.
+       13. sth is not restricted to ..., but is also evident among ... 主题并不
+           局限于……，在……中也很明显。
+           - The benefits of being independent are not restricted to improving
+             one's academic performance, but are also evident among promoting
+             one's energy enthusiasm and charm.
+       14. be it A or B 无论 A 还是 B
+           - The road to the victory may not be so long as we expected. But we
+             have no right to count upon this. Be it long or short, rough or
+             smooth, we mean to reach our journey's end.
+       15. 句间连接词
+           - To do this,
+           - To become successful,
+           - By doing so,
+           - Obviously,
+           - In many ways,
+           - In some cases,
+           - Unfortunately,
+           - Surely,
+           - Specifically,
+           - Put it another way,
+           - To put it mildly ...
+           - To put it strong ...
+           - ... that is to say ...
+           - In other words ...
+           - ... which means ...
+           - ... which suggests that ...
+           - ... which is best characterized that ...
+           - , with the underlying assumption that ...
+  4. 因果展开法（图表作文）
+     - 因果句型
+     - 原因列举
+       1. 具体原因分析
+       2. 借用平行展开法
+       3. 科学论据
+****** 总结句
+- 重申论点
+- 虚拟语气
+  - Were there no 主题, sb would not do sth.
+  - Were these no online education, those who have no time to attend school
+    would not enjoy the convenience of schooling and the updating of knowledge.
+- Beyond any dispute, Doubtless, Undeniably, + 主题重要
+  - Indisputably, 主题 has become indispensable to the health of the economy,
+    the stability of the polity and the pursuit of private happiness.
+- 利大于弊/弊大于利
+***** para3
+****** 正面
+******* 再次确认其重要性/重申论点
+******* 举例/取其精华/给出建议
+- It is imperative that the essence be absorbed and the drawbacks be neglected,
+  especially in the times of knowledge exposion when news facts, opinions and
+  even rumors have been bombarding us from every corner of the world.
+- Researchers, scholars, and experts in the related area are expected to work
+  out up-to-date proposals to ensure this positive phenomenon will produce
+  lasting effects on the building of a healthy society.
+- The general public should be educated and guided to get a clear perspective of
+  this valued quality which is part and parcel to the individual growth.
+- To enhance and maintain a sound social growth, we must treat the topic
+  mentioned above socially, economically and culturally.
+- Numerous cases exist to illustrate this point. Take sb for example, but for 主
+  题, sb could not have done sth, let alone doing sth.
+- Take sb for example, without 主题, how can sb do sth? Without 主题, how can sb
+  do sth? Without 主题, how can sb do sth?
+******* 展望未来
+- Only in a reasonable, prosperous and healthy atmosphere can we hope to witness
+  an ideal scence in which people can enjoy their lives to the uttermost.
+****** 负面
+******* 问题严重
+- With current state of affairs being so sorry, we cannot afford to turn a blind
+  eye to this intimidating problem which is worsening at an appalling rate.
+- This problem demands our devoted attention and instant action.
+- 制定法律/法规
+- It is not why this matter exists in today's world but what we should do to
+  cope with it.
+- Researchers, scholars and experts are supposed to work out up-to-date
+  solutions to this urgent problem.
+- For another thing, the general public are expected to enhance their awareness
+  that 主题 should be guarded against with alert minds.
+- With a proper law and an alert public, it will only be a matter of time before
+  the problem becomes things of the past. 这个问题早晚会解决。
+******* 建议（多个建议句群）
+******* 展望未来
+**** 图表作文
+***** 描述图表
+****** 描述图表句
+- bar chart
+- pie chart
+- line chart
+- table chart
+- statistics
+******* 静态图
+- 占比
+- As is shown above, the total 主题 is divided into four parts, with A and B
+  making up X% totally.
+
+- 占比句型
+  - A makes up 34%
+  - 51% stands for B
+  - 9% refers to C
+  - 6% is defined as D
+
+- As is demonstrated above, there are four causes of farmland becoming degraded
+  in the world today. Globally, 65% of degradation is caused by animal grazing
+  and tree clearance, constituting 35% and 30% respectively.
+******* 动态图
+- 变化
+- The past decade has witnessed a great change that the private car is playing
+  an increasingly important role in people's means of transportation.
+- As is shown above, the number of the people who use the bike as their
+  transportation tool decreased, while the number of the individuals of
+  employing cars to travel increased rapidly.
+- 增加和减少的表达
+  - 上升
+    - surge
+    - climb to
+    - rise
+    - skyrocket
+    - jump to
+    - a steady rise
+    - a steep increase
+  - 下降
+    - plunge
+    - decline
+    - drop
+    - fall
+    - descend
+  - 程度
+    - sharp
+    - drastic
+    - dramatic
+    - intensive
+    - remarkable
+    - sustained
+    - temporary
+****** para2
+****** para3
+- 设问
+- Why do so many young people go on with their study and attempt to earn higher
+  degree?
+***** 解释原因
+- 因果展开法
+***** 给出建议
+**** 应用文
+***** 格式
+****** 书信
+******* 称呼
+- Dear sir or madam,
+- Dear sir,
+- Dear madam,
+- 如果题干有明确要求，则必须按题干要求写
+- Dear friend(s),
+******* 正文
+- 分三段，空两格
+******* 署名
+- 按题干要求，仔细阅读题干
+- Yours sincerely,
+- Li Ming
+****** 告示
+- Notice
+- 落款/署名 按题干要求
+***** 基本要求
+- 开门见山说意图
+- 信息要点覆盖到
+- 举一反三讲细节
+- 语言正式词多变
+- 感谢客气不能少
+- 期待回信表敬意
+***** 分类讲解
+1. 必须仔细阅读题干要求
+2. 语言只要不出错就行，字数够 100 字
+3. 可以积累一些常用的开头或结尾句式
+4. 积累一些万能理由
+****** 投诉信和建议信
+****** 辞职信和道歉信
+****** 求职信和推荐信
+- 聪明
+  - intelligent
+  - ingenious
+  - talent
+  - gifted
+  - have insightful opinions
+- 勤奋
+  - diligent
+  - industrious
+  - hardworking
+- 性格
+  - humorous
+  - amiable
+  - sociable
+  - enthusiastic
+  - ready for help
+  - cooperative
+  - team spirit
+  - leadership
+****** 祝贺信和感谢信
+****** invite 邀请信
+****** 告示和咨询信
+*** spr
+- 9 1:02:20
+**** 解题顺序
+***** 1
+1. 阅读 60-80m
+2. 大作文 30-40m
+3. 翻译 15-20m
+4. 小作文 15-20m
+5. 新题型 15-20m
+6. 完形填空 0-x
+***** 2
+1. 大作文
+2. 阅读
+3. 小作文
+4. 翻译
+5. 新题型
+6. 完形填空
+**** 阅读解题流程
+1. 标注段落号
+2. 根据题干中的段落号找到题目所对应的段落（定位到段）
+3. 根据题目的不同类型定位到句
+   - 线索句：有资格和选项发生关系的句子
+4. 将四个选项分别与线索句比对
+   1. 与线索句无关，但与其他句相关（定位错误）
+   2. 与线索句无关，与其他句也无关（Not Given）
+   3. 与线索句相关，但出现偷换（偷换选项）
+      1. 主干
+      2. 因果
+      3. 比较
+      4. 否定
+   4. 表达方式不同，意思最为接近（同义替换）
+      1. 同近义词的替换
+         - inexorable == inevitable
+         - margin == profit
+         - the way == how
+         - lucrative == handsome
+      2. 上下义词的替换
+      3. 归纳不推理
+         - 列举
+      4. 正话反说
+      5. 原文重现
+5. 利用信息的高低原则完成最后的排除
+   - 主题为王
+**** 写作
+***** 话题
+1. 个人成功品质
+   - 坚持 独立 梦想 创新
+2. 社会道德
+   - 社会公德 诚信 爱心 邻里
+3. 科技环境
+   - 在线教育 直播
+4. 文化交流
+   - 传统文化
+***** 主题词 n.
+1. 个人品质
+   - perseverance / persistence
+   - enthusiasm / optimism
+   - adversity / hardship / suffering the adverse situation / setback
+   - courage / bravery
+   - sincerity / creation and innovation / being creative / critical thinking /
+     creative pursuit / the courage to explore the uncharted field / the
+     aspiration to think out of the box / critical mind
+   - gratification / gratitude
+   - decisiveness / assertiveness
+   - tolerance
+   - love and affection
+   - favorable circumstances
+   - hardworking / diligence / painstaking efforts
+   - being modest / being self-satisfied
+   - professional dedication / professional ethics
+   - good health / being energetic / robust
+   - the pursuit of knowledge
+2. 社会道德
+   - plain living / thrift
+   - courtesy / being friendly
+   - patriotism
+   - belief in science
+   - benevolence / humanity / humaneness
+   - modern virtues
+   - traditional Chinese values
+   - honesty / being reliable / credibility / being trustworthy
+   - the observation of the law
+   - being united / solidarity / helping each other
+   - public morals
+   - surrendering the seat to the old on the bus / no speaking loudly in public
+     areas / playing the music with the speaker
+3. 科技环境
+   - online education
+   - internet celebrity
+   - social media
+   - social network / Wechat Moments
+   - virtual reality (VR)
+   - smart devices
+   - the addiction to some applications / the indulgence
+   - mobile internet
+   - online transaction
+   - energy saving / resource reservation
+   - environmental preservation
+   - sustainability / sustainable development
+   - environment-friendly
+   - organic food
+   - urbanization
+   - air, water, and, soil pollution / noise pollution
+   - green group / spare the environment / greenhouse
+4. 文化交流
+   - cultural integration / cultural exchange / cultural communication /
+     cultural assimilation / soft power / the assimilation power / popular
+     culture / common culture
+***** writ
+- As is shown above, in the middle of the picture walks a man, trying to attain
+  the goal of innovation and development with the help of the Internet and its
+  related technologies. If posted on the Internet, this cartoon will definitely
+  draw much attention and arouse abundant imagination for its revealing of a
+  trending topic.
+- The picture demonstrates that nothing can be campared with the spirit of
+  innovation when it comes to the individual development and social growth,
+  especially in this digital age. In other words, the courage to explore
+  uncharted field and the bravery to embrace the new technology underlie the
+  human success, be it individual or organizational. Fortunately, the topic of
+  creation and innovation has been high now on the government's agenda, with
+  concerted efforts initiated by all levels of a social fabric. By doing so,
+  those who are brave and positive enough to face possible challenges and
+  setbacks on the road of innovation are more likely to establish careers. To
+  put it strong, the trait of innovation will make outstanding companies stand
+  out in this ever dramatically changing era. The company of Google serves as a
+  shining and fitting example here.
+- From my personal perspective, much more attention should be attached by the
+  public to the cultivation of critical thinking ability. Despite of the great
+  advance we have made in the mobile Internet age, it is not hard to notice the
+  gap between us and other rich economies in this aspect, as is refleeted in the
+  difference of Baidu and Google. Nevertheless, I firmly believe, with sensible
+  public awareness and concrete initiatives, the trend described in the picture
+  will continue to flourish and bring us more rewards.
+** ph
+*** epi
+*** sta
+*** nui
+*** occ
+*** env
