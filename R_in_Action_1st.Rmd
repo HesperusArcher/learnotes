@@ -1,0 +1,63 @@
+# C1 #
+
+> demo()
+
+<!-- 显示当前目录 -->
+getwd()
+
+<!-- 修改当前目录 -->
+setwd("*mydirectory*")
+
+<!-- 保存、读取工作空间，默认值 .RData -->
+save.image("myfile")
+load("myfile")
+
+<!-- 创建新目录 -->
+dir.create()
+
+<!-- 执行 R 脚本 -->
+source("*myscript.R*")
+
+<!-- 输入重定向，追加文本，同时发送到屏幕 -->
+sink("*filename*", append=TRUE, split=TRUE)
+
+# C2 #
+
+1. 选择一种数据结构来存储数据
+2. 将数据输入或导入到这个数据结构中
+
+<!-- 显示数据结构 -->
+str()
+
+<!-- 向量 vector (数值型 | 字符型 | 逻辑型) -->
+c()
+
+<!-- 矩阵 matrix -->
+matrix(vector)
+<!-- 包含字符型行列名 -->
+dimnames=list(char_vector_rownames, char_vector_colnames)
+
+<!-- 数组 array，与矩阵类似，但维度可以大于 2-->
+array(vector)
+
+<!-- 字符型 & 数值型 & 逻辑型 -->
+*mydata* <- data.frame(col1,col2,col3,...)
+
+<!-- 有序变量(order)并指定等级 -->
+*status* <- factor(*status*, order=TRUE, levels=c("Poor","Improved","Excellent"))
+
+<!-- 列表 -->
+list()
+<!-- 双重方括号指明列表中的元素 -->
+*mylist[[2]]**
+
+*grades* <- read.table("studentgrades.csv", header=TRUE, sep=",", row.names="StudentID")
+<!-- 默认字符型变量转换为因子 -->
+
+# C4 #
+
+variable[condition] <- expression
+<!-- 仅在 condition 为 TRUE 时执行赋值。 -->
+
+<!-- 重命名 -->
+rename()
