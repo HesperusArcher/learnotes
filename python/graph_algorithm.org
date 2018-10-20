@@ -1,0 +1,48 @@
+# 算法图解
+
+* binary search 二分查找
+
+顺序排列的，可以用二分查找
+
+#+BEGIN_SRC python
+def binary_search(list,item):
+    low=0
+    high=len(list)-1
+
+    while low<=high:
+        mid = int((low+high)/2)
+        guess=list[mid]
+        if guess==item:
+            return mid
+        elif guess>item:
+            high=mid-1
+        else:
+            low=mid+1
+    return None
+
+my_list=[1,3,5,7,9,11,13,15,17,19]
+
+print(binary_search(my_list,7))
+print(binary_search(my_list,-1))
+#+END_SRC
+
+** O()
+ | O(log n)     | 二分查找   |
+ | O(n)         | 简单查找   |
+ | O(n * log n) | 快速排序   |
+ | O(n^2)       | 选择排序   |
+ | O(n!)        | 旅行商问题 |
+
+算法运行时间是以其增速角度度量的
+
+* selection sort
+
+* 递归
+
+* quick sort
+
+* hash
+
+* broadth first search
+
+* Dijkstra algorithm
