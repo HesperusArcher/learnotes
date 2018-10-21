@@ -35,14 +35,248 @@ print(binary_search(my_list,-1))
 
 算法运行时间是以其增速角度度量的
 
+** 小结
+
+- 二分查找的速度比简单查找快得多
+- O(log n) 比 O(n)快。需要搜索的元素越多，前者比后者就快得越多
+- 算法运行时间并不以秒为单位
+- 算法运行时间是以其增速角度度量的
+- 算法运行时间用大 O 表示法表示
+
 * selection sort
+
+元素的位置称为 *索引* 。
+
+|      | 数组 | 链表 |
+| 读取 | O(1) | O(n) |
+| 插入 | O(n) | O(1) |
+
+当需要在中间插入元素时，链表是更好的选择
+
+要删除元素，链表也是更好的选择
+
+链表只能顺序访问，数组支持随机访问
+
+选择排序需要的总时间为 O(n×n)，即 O(n^2)
+
+快速排序是一种更快的排序算法，其运行时间为 O(n log n)
+
+#+BEGIN_SRC python
+def findSmallest(arr):
+    smallest=arr[0]
+    smallest_index=0
+    for i in range(1,len(arr)):
+        if arr[i]<smallest:
+            smallest=arr[i]
+            smallest_index=i
+    return smallest_index
+
+def selectionSort(arr):
+    newArr=[]
+    for i in range(len(arr)):
+        smallest=findSmallest(arr)
+        newArr.append(arr.pop(smallest))
+    return newArr
+
+print(selectionSort([5,3,6,2,10]))
+#+END_SRC
+
+** 小结
+
+- 计算机内存犹如一大堆抽屉
+- 需要存储多个元素时，可使用数组或链表
+- 数组的元素都在一起
+- 链表的元素是分开的，其中每个元素都存储了下一个元素的地址
+- 数组的读取速度很快
+- 链表的插入和删除速度很快
+- 在同一个数组中，所有元素的类型都必须相同(int、double 等)
 
 * 递归
 
+while 循环 vs. 递归——函数调用自己
+
+递归只是让解决方案更清晰，并没有性能上的优势
+
+编写递归函数时，必需告诉他何时停止递归
+
+递归条件指的是函数调用自己，基线条件则指的是函数不再调用自己，从而避免形成无限循环
+
+
+** 调用栈(call stack)
+
+压出(插入)和弹出(删除并读取)
+
+调用另一个函数时，当前函数暂定并处于未完成状态
+
+这个栈用于存储多个函数的变量，被称为调用栈
+
+** 阶乘 factorial
+   
+#+BEGIN_SRC python
+def fact(x):
+    if x==1:
+        return 1
+    else:
+        return x*fact(x-1)
+
+print(fact(3))
+#+END_SRC
+
+每个 fact 调用都有自己的 x 变量
+
+** 小结
+
+- 递归指的是调用自己的函数
+- 每个递归函数都有两个条件：基线条件和递归条件
+- 栈有两种操作：压入和弹出
+- 所有函数调用都进入调用栈
+- 调用栈可能很长，这将占用大量的内存
+
 * quick sort
 
-* hash
+快速排序使用分而治之(divide and conquer, D&C)的策略
 
-* broadth first search
+D&C 并非可用于解决问题的算法，而是一种解决问题的思路
 
-* Dijkstra algorithm
+缩小了问题的规模
+
+归纳证明是一种证明算法行之有效的方式，他分两步：基线条件和归纳条件
+
+#+BEGIN_SRC python
+def quicksort(array):
+    if len(array)<2:
+        return array
+    else:
+        pivot=array[0]
+        less=[i for i in array[1:] if i<=pivot]
+        greater=[i for i in array[1:] if i>pivot]
+        return quicksort(less) + [pivot] + quicksort(greater)
+
+print(quicksort([10,5,2,3]))
+#+END_SRC
+
+** 小结
+
+- D&C 将问题逐步分解。使用 D&C 处理列表时，基线条件很可能是空数组或只包含一个元素的数组
+- 实现快速排序时，请随机地选择用作基准值的元素。快速排序的平均运行时间为 O(n log n)
+- 大 O 表示法中的常量有时候事关重大，这就是快速排序比合并排序快的原因所在
+- 比较简单查找和二分查找时，常量几乎无关紧要，因为列表很长时，O(log n)的速度比 O(n)快得多
+
+* hash 散列表(hash table)
+
+Python 提供的散列表实现为 *字典* ，可使用函数 dict 来创建散列表
+
+Python 提供了一种创建散列表的快捷方式——使用一对大括号
+
+网址映射到 IP 地址的过程被称为 DNS 解析(DNS resolution)
+
+散列表适合用于：
+- 模拟映射关系
+- 防止重复
+- 缓存/记住数据，以免服务器再通过处理来生成他们
+
+如果两个 key 映射到了同一个位置，就在这个位置存储一个链表
+
+|      | 散列表(平均情况) | 散列表(最糟情况) | 数组 | 链表 |
+| 查找 | O(1)             | O(n)             | O(1) | O(n) |
+| 插入 | O(1)             | O(n)             | O(n) | O(1) |
+| 删除 | O(1)             | O(n)             | O(n) | O(1) |
+
+散列表调整长度(resizing)，通常将数组增长一倍
+
+一旦填装因子大于 0.7，就调整散列表的长度
+
+调整散列表长度的工作需要很长时间
+
+* broadth-first search, BFS
+
+解决最短路径问题的算法被称为广度优先搜索
+
+图模拟一组连接
+
+回答两类问题：
+- 从节点 A 出发，有前往 B 的路径吗？
+- 从节点 A 出发，前往节点 B 的哪条路径最短？
+
+队列是一种先进先出(first in first out, FIFO)的数据结构，而栈是一种后进先出(last in first out, LIFO)的数据结构
+
+有向图(directed graph)，有箭头，其中的关系是单向的
+
+无向图(undirected graph)，没有箭头，直接相连的节点互为邻居
+
+#+BEGIN_SRC python
+from collections import deque
+# comment sys in this example
+import sys
+
+graph = {}
+graph["you"] = ["alice", "bob", "claire"]
+graph["bob"] = ["anuj", "peggy"]
+graph["alice"] = ["peggy"]
+graph["claire"] = ["thom", "jonny"]
+graph["anuj"] = []
+graph["peggy"] = []
+graph["thom"] = []
+graph["jonny"] = []
+
+def search(name):
+    search_queue=deque()
+    search_queue+=graph[name]
+    searched=[]
+    while search_queue:
+        person=search_queue.popleft()
+        if not person in searched:
+            if person_is_seller(person):
+                print(person+" is a mango seller!")
+                return True # has mango seller in this queue
+            else:
+                search_queue+=graph[person]
+                searched.append(person)
+    return False # Not has mango seller in this queue
+
+def person_is_seller(name):
+    return name[-1]=='m'
+
+search("you")
+#+END_SRC
+
+** 小结
+
+- 广度优先搜索指出是否有从 A 到 B 的路径
+- 如果有，广度优先搜索将找出最短路径
+- 面临类似于寻找最短路径的问题时，可尝试使用图来建立模型，再使用广度优先搜索来解决问题
+- 有向图中的边为箭头，箭头的方向指定了关系的方向
+- 无向图中的边不带箭头，其中的关系是双向的
+- 队列是先进先出(FIFO)的
+- 栈是后进先出的(LIFO)的
+- 你需要按加入顺序检查搜索列表中的人，否则找到的就不是最短路径，因此搜索列表必须是队列
+- 对于检查过的人，务必不要再去检查，否则可能导致无限循环
+
+* Dijkstra's algorithm
+
+找出最快的路径，可使用 Dijkstra's algorithm
+
+Dijkstra's algorithm 找出的是总权重最小的路径
+- 找出最便宜的节点，即可在最短时间内前往的节点
+- 对于该节点的邻居，检查是否有前往他们的更短路径，如果有，更新其开销
+- 重复这个过程，直到对图中的每个节点都这样做了
+- 计算最终路径
+
+要计算非加权图中的最短路径，可使用广度优先搜索。要计算加权图中的最短路径，可使用 Dijkstra's algorithm
+
+Dijkstra's algorithm 只适用于有向无环图(directed acyclic graph, DAG)
+
+如果有负权边，就不能使用 Dijkstra's algorithm
+
+包含负权边的图中，可使用 Bellman-Ford algorithm
+
+** 小结
+
+- 广度优先搜索用于在非加权图中查找最短路径
+- Dijkstra's algorithm 用于在加权图中查找最短路径
+- 仅当权重为正时，Dijkstra's algorithm 才管用
+- 如果图中包含负权边，请使用 Bellman-Ford algorithm
+
+* 贪婪算法
+
+每步都选择局部最优解
