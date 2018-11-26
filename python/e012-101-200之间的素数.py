@@ -20,6 +20,6 @@ for m in range(101,201):
         print(m)
         h+=1
         if h % 10 == 0:
-            print('')
+            print(' ')
     leap=1
 print('The total is',h)
