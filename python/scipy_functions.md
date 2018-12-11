@@ -1,6 +1,6 @@
 constants 包含众多物理常数
 
-special中gamma()计算 Γ()
+special 中 gamma()计算 Γ()
 
 ```python
 from scipy import constants as C
